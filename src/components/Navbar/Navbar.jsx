@@ -3,9 +3,15 @@ import css from "./Navbar.module.css";
 import CustomButton from "../Buttons/Buttons";
 import classNames from "classnames";
 import { useEffect, useState } from "react";
+import { Link } from "react-router";
 
 const Navbar = () => {
-  const navList = ["Home", "About", "Product", "Reviews"];
+  const navList = [
+    { path: "/", name: "Home" },
+    { path: "/about", name: "About" },
+    { path: "/product", name: "Product" },
+    { path: "/reviews", name: "Reviews" },
+  ];
   const [isScrolled, setIsScrolled] = useState(false);
 
   useEffect(() => {
@@ -38,7 +44,11 @@ const Navbar = () => {
           <ul>
             {navList.map((list, i) => (
               <li key={i}>
-                <CustomButton className={css.navButton}>{list}</CustomButton>
+                <Link className={css.navLink} to={list.path}>
+                  <CustomButton className={css.navButton}>
+                    {list.name}
+                  </CustomButton>
+                </Link>
               </li>
             ))}
           </ul>

@@ -8,30 +8,35 @@ html {
 }
 
 :root {
-  --primaryBg: #D9C9B1;
+  --primaryBg: #d9c9b1;
   --secondary-color: #ff6f61;
   --text-color: #333;
   --bg-color: #f9f9f9;
-  --font-heading: 'Segoe UI', sans-serif;
-  --font-body: 'Roboto', sans-serif;
+  --font-heading: "Segoe UI", sans-serif;
+  --font-body: "Roboto", sans-serif;
   --maxWidth: 1400px;
 
-  --primaryBlack: #0F010E;
-  --subSecondaryBlack: #837E7E;
+  --largeTextColor: #3f3e3e;
+
+  --primaryBlack: #0f010e;
+  --subSecondaryBlack: #837e7e;
 
   /* Buttons */
 
   --textColor: #523010;
-  --bodyBg: #F0ECEA;
-  --svgColor: #D5C4A1;
+  --bodyBg: #f0ecea;
+  --svgColor: #d5c4a1;
   /* hover */
-  --textColorHover: #905A0C; 
-  --navbarButtonBgHover: #DFD4BB;
+  --textColorHover: #905a0c;
+  --navbarButtonBgHover: #dfd4bb;
 
   /* Heading */
-  --headingText: #4F3F40;
-  --heading2Text: #3F3E3E;
-  --pinkText: #E87279;
+  --headingText: #4f3f40;
+  --heading2Text: #3f3e3e;
+  --pinkText: #e87279;
+
+  /* Image */
+  --imageDashedBorder: #a3a3a3;
 }
 
 body {
