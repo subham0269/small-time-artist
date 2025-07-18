@@ -11,6 +11,7 @@ html {
   --primaryBg: #d9c9b1;
   --secondary-color: #ff6f61;
   --text-color: #333;
+  --textColor2: #523010;
   --bg-color: #f9f9f9;
   --font-heading: "Segoe UI", sans-serif;
   --font-body: "Roboto", sans-serif;
@@ -37,6 +38,10 @@ html {
 
   /* Image */
   --imageDashedBorder: #a3a3a3;
+
+  /* gray */
+
+  --gray1: #4f4f50;
 }
 
 body {

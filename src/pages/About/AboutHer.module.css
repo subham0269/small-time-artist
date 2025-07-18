@@ -54,3 +54,93 @@
 .contentCont {
   margin: 36px auto;
 }
+
+/* card section */
+
+.cardContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardMain {
+  background-image: url("../../assets/decorations/about_card_bg.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 372px;
+  height: 360px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  & .tape {
+    position: absolute;
+    right: -21px;
+    bottom: -26px;
+  }
+
+  & .flow {
+    position: absolute;
+    top: 13px;
+    right: 31px;
+    width: 99px;
+    height: auto;
+  }
+
+  & .heading {
+    color: var(--textColor2) !important;
+    font-size: 28px;
+  }
+
+  & p {
+    padding: 0 50px !important;
+    margin-top: 15px;
+    font-size: 22px;
+    font-family: "Geist", sans-serif;
+    font-weight: 300;
+    line-height: 39.5px;
+    color: var(--gray1) !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .herosec {
+    padding: 80px 0 20px 0;
+    & .heading {
+      font-size: 42px;
+
+      & span {
+        display: block;
+        width: 100%;
+      }
+    }
+  }
+  .content {
+    font-size: 14px;
+    line-height: 24.5px;
+    text-align: center;
+  }
+  .cardContainer {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .cardMain {
+    width: 100%;
+    max-width: 380px;
+    height: auto;
+    background-size: 100% auto;
+    aspect-ratio: 1 / 1;
+
+    & .heading {
+      font-size: 24px;
+    }
+
+    & p {
+      font-size: 16px;
+      line-height: 22.5px;
+    }
+  }
+}

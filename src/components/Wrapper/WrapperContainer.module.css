@@ -1,5 +1,6 @@
 .root {
-    max-width: 1300px;
-    width: 100%;
-    margin: 0 auto;
+  max-width: 1300px;
+  padding: 10px;
+  width: 100%;
+  margin: 0 auto;
 }

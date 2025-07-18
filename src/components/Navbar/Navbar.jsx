@@ -3,7 +3,7 @@ import css from "./Navbar.module.css";
 import CustomButton from "../Buttons/Buttons";
 import classNames from "classnames";
 import { useEffect, useState } from "react";
-import { Link } from "react-router";
+import { Link, useLocation } from "react-router";
 
 const Navbar = () => {
   const navList = [
@@ -13,6 +13,8 @@ const Navbar = () => {
     { path: "/reviews", name: "Reviews" },
   ];
   const [isScrolled, setIsScrolled] = useState(false);
+  const location = useLocation();
+  console.log(location.pathname === navList[1].path);
 
   useEffect(() => {
     const rootEl = document.getElementById("root");
@@ -45,7 +47,11 @@ const Navbar = () => {
             {navList.map((list, i) => (
               <li key={i}>
                 <Link className={css.navLink} to={list.path}>
-                  <CustomButton className={css.navButton}>
+                  <CustomButton
+                    className={classNames(css.navButton, {
+                      [css.isActive]: location.pathname === list.path,
+                    })}
+                  >
                     {list.name}
                   </CustomButton>
                 </Link>

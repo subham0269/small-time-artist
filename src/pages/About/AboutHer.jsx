@@ -4,8 +4,48 @@ import Section from "../../components/Section/SectionContainer";
 import WrapperContainer from "../../components/Wrapper/WrapperContainer";
 import css from "./AboutHer.module.css";
 import Her from "../../assets/content/images/her.jpg";
+import Tape from "../../assets/decorations/about_tape_bg.svg";
+import Flow from "../../assets/decorations/about_card_flow_bg.svg";
+
+function Card({ title, desc }) {
+  return (
+    <div className={css.cardMain}>
+      <Heading className={css.heading} level={3}>
+        {title}
+      </Heading>
+      <p>{desc}</p>
+      <img className={css.tape} src={Tape} alt="" />
+      <img className={css.flow} src={Flow} alt="" />
+    </div>
+  );
+}
+
+function CardSec({ data }) {
+  return (
+    <div className={css.cardContainer}>
+      {data.map((d, i) => (
+        <Card key={i} desc={d.desc} title={d.title} />
+      ))}
+    </div>
+  );
+}
 
 function AboutHer() {
+  const cards = [
+    {
+      title: "Unique & Exclusive",
+      desc: "No two pieces are ever the same.",
+    },
+    {
+      title: "Tailored To Your Vision",
+      desc: "Custom creations for offices, cafes, and more.",
+    },
+    {
+      title: "Sustainable & Handcrafted",
+      desc: "Thoughtfully designed with care.",
+    },
+  ];
+
   return (
     <MainContainer>
       <Section className={css.herosec} label={"Welcome to her art universe"}>
@@ -41,6 +81,11 @@ function AboutHer() {
             experience. Through Smalltime Artiste, I hope to bring more art into
             everyday life—one handcrafted piece at a time.
           </p>
+        </WrapperContainer>
+      </Section>
+      <Section label={"Her ways"}>
+        <WrapperContainer>
+          <CardSec data={cards} />
         </WrapperContainer>
       </Section>
     </MainContainer>
