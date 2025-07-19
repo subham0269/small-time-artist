@@ -6,6 +6,33 @@ import css from "./AboutHer.module.css";
 import Her from "../../assets/content/images/her.jpg";
 import Tape from "../../assets/decorations/about_tape_bg.svg";
 import Flow from "../../assets/decorations/about_card_flow_bg.svg";
+import illus from "../../assets/decorations/about_form_ill.svg";
+import CustomButton from "../../components/Buttons/Buttons";
+
+function Form() {
+  const handleFormSubmit = (e) => {
+    e.preventDefault();
+  };
+  return (
+    <form className={css.form} onSubmit={handleFormSubmit}>
+      <div className={css.inpFieldCont}>
+        <label htmlFor="fullName">Full Name:</label>
+        <input type="text" name="fullName" placeholder="" />
+      </div>
+      <div className={css.inpFieldCont}>
+        <label htmlFor="email">Email:</label>
+        <input type="email" name="email" placeholder="" />
+      </div>
+      <div className={css.inpFieldCont}>
+        <label htmlFor="email">Message:</label>
+        <textarea rows={10} name="message" placeholder="" />
+      </div>
+      <CustomButton outward className={css.ctaBtn} primary>
+        Submit
+      </CustomButton>
+    </form>
+  );
+}
 
 function Card({ title, desc }) {
   return (
@@ -86,6 +113,22 @@ function AboutHer() {
       <Section label={"Her ways"}>
         <WrapperContainer>
           <CardSec data={cards} />
+        </WrapperContainer>
+      </Section>
+      <Section className={css.formSec} label={"Collaborate with her"}>
+        <WrapperContainer>
+          <div className={css.formSecCont}>
+            <div className={css.div1}>
+              <Heading level={2} className={css.formHeading}>
+                Let&apos;s collaborate to bring your space, event, or gifting
+                needs to life
+              </Heading>
+              <img src={illus} alt="" />
+            </div>
+            <div className={css.div2}>
+              <Form />
+            </div>
+          </div>
         </WrapperContainer>
       </Section>
     </MainContainer>
