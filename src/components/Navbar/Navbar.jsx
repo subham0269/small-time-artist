@@ -14,7 +14,6 @@ const Navbar = () => {
   ];
   const [isScrolled, setIsScrolled] = useState(false);
   const location = useLocation();
-  console.log(location.pathname === navList[1].path);
 
   useEffect(() => {
     const rootEl = document.getElementById("root");
