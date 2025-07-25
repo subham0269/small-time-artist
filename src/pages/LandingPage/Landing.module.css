@@ -15,6 +15,19 @@
   text-align: center;
 }
 
+.landDecor {
+  width: 100%;
+  height: auto;
+}
+
+.decorSec {
+  width: 100%;
+  height: auto;
+  margin-top: -60px;
+  padding-left: unset !important;
+  padding-right: unset !important;
+}
+
 .herosec {
   min-height: max(700px, calc(100vh - 90px));
   padding: 80px 0;
@@ -61,8 +74,9 @@
   }
 
   @media (max-width: 768px) {
-    padding: 60px 0 20px 0;
-    min-height: max(700px, calc(100vh - 60px));
+    padding: 60px 0 140px 0;
+    /* min-height: max(700px, calc(90vh - 60px)); */
+    min-height: unset;
 
     & .headingSec {
       padding: 0 10px;
@@ -159,6 +173,10 @@
   }
 }
 
+.glimSec {
+  margin-top: 100px;
+}
+
 .glimpseTreePos {
   position: absolute;
   top: 0;
@@ -185,7 +203,7 @@
 }
 
 .gridContainer {
-  background-color: #EAE1CD80;
+  background-color: #eae1cd80;
   display: grid;
   gap: 1.5rem;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -199,7 +217,7 @@
   overflow: hidden;
   border-radius: 4px;
   position: relative;
-  background-color: #EAE1CD80;
+  background-color: #eae1cd80;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -243,10 +261,13 @@
   }
   .glimpseHeadLogo {
     width: 90px;
-    height: auto; 
+    height: auto;
   }
   .glimpseHeading {
     font-size: 42px;
+  }
+  .glimpseContainer {
+    padding-top: 50px;
   }
 }
 

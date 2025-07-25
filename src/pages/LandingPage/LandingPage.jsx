@@ -12,6 +12,8 @@ import glimpseTree from "../../assets/decorations/flower_tree2.svg";
 import glimpseHead from "../../assets/decorations/glimpse_head.svg";
 import HeroImg from "../../assets/page/LandingPage/HeroImg1.png";
 
+import decorationLand from "../../assets/decorations/landing.png";
+
 const LandingPage = () => {
   const creativeProcess = [
     {
@@ -60,7 +62,12 @@ const LandingPage = () => {
             </Heading>
           </div>
           <div className={css.imgCont}>
-            <img className={css.heroImg} src={HeroImg} alt="Gallery Preview" />
+            <img
+              className={css.heroImg}
+              src={HeroImg}
+              alt="Gallery Preview"
+              loading="lazy"
+            />
           </div>
           <div className={css.cta}>
             <CustomButton outward className={css.ctaBtn} primary>
@@ -70,6 +77,14 @@ const LandingPage = () => {
         </WrapperContainer>
         <img className={css.treePos} src={flowerTree} alt="" />
         <img className={css.flowerPos} src={pinkPetals} alt="" />
+      </Section>
+      <Section className={css.decorSec} label={"Decor"}>
+        <img
+          className={css.landDecor}
+          src={decorationLand}
+          alt=""
+          loading="lazy"
+        />
       </Section>
       <Section label={"Her Creative Process"}>
         <WrapperContainer className={css.creativeProcessSection}>
@@ -85,7 +100,7 @@ const LandingPage = () => {
           </div>
         </WrapperContainer>
       </Section>
-      <Section label={"A glimpse into her world"}>
+      <Section className={css.glimSec} label={"A glimpse into her world"}>
         <WrapperContainer className={css.glimpseContainer}>
           <div className={css.glimpseHeadContainer}>
             <img className={css.glimpseHeadLogo} src={glimpseHead} alt="" />
@@ -94,11 +109,16 @@ const LandingPage = () => {
             </Heading>
           </div>
           <div className={css.gridContainer}>
-            {imageGallery.map((link, i) => 
+            {imageGallery.map((link, i) => (
               <div className={css.gridCard}>
-                <img className={css.gridImg} src={link} alt={`image-${i}`} loading="lazy" />
-              </div>  
-            )}
+                <img
+                  className={css.gridImg}
+                  src={link}
+                  alt={`image-${i}`}
+                  loading="lazy"
+                />
+              </div>
+            ))}
           </div>
         </WrapperContainer>
         <img className={css.glimpseTreePos} src={glimpseTree} alt="" />
