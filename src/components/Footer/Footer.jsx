@@ -34,7 +34,7 @@ function Footer() {
   return (
     <footer className={css.footer}>
       <div className={css.footerContentContainer}>
-        <Heading className={css.footerHeading} level="h2">
+        <Heading className={css.footerHeading} level="2">
           Say <span>Hello</span>
         </Heading>
         <div className={css.socialsCont}>

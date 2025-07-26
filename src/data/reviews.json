@@ -1,0 +1,16 @@
+{
+  "label": "A story Of Kind Words & Grateful Hearts",
+  "heading": "A story Of Kind Words &",
+  "highlight": "Grateful Hearts",
+  "images": [
+    { "img": "1.png", "alt": "Smiling woman giving testimonial" },
+    { "img": "2.png", "alt": "Happy customer review" },
+    { "img": "3.png", "alt": "Satisfied client speaking" },
+    { "img": "4.png", "alt": "Warm testimonial from a user" },
+    { "img": "5.png", "alt": "Thankful feedback picture" },
+    { "img": "6.png", "alt": "Customer giving positive review" },
+    { "img": "7.png", "alt": "Pleased user talking about service" },
+    { "img": "8.png", "alt": "Person sharing their story" },
+    { "img": "9.png", "alt": "Emotional feedback moment" }
+  ]
+}

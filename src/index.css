@@ -57,3 +57,12 @@ body {
 ul {
   list-style: none;
 }
+
+.slick-arrow {
+  display: none !important;
+}
+
+.slick-slider {
+  outline: unset !important;
+  border: unset !important;
+}
