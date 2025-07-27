@@ -15,7 +15,7 @@ function Reviews() {
     slidesToShow: 3,
     slidesToScroll: 1,
     centerMode: true,
-    centerPadding: "20px", // gutter effect
+    centerPadding: "20px",
     autoplay: true,
     autoplaySpeed: 2000,
   });
