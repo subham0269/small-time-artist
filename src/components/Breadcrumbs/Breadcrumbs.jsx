@@ -10,7 +10,7 @@ const Breadcrumbs = () => {
   // Capitalize and format words
   const format = (str) =>
     str
-      .split(" ")
+      .split("-")
       .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
       .join(" ");
 
@@ -33,7 +33,9 @@ const Breadcrumbs = () => {
             {isLast ? (
               <span>{format(segment)}</span>
             ) : (
-              <Link to={pathTo}>{format(segment)}</Link>
+              <Link className={css.link} to={pathTo}>
+                {format(segment)}
+              </Link>
             )}
           </li>
         );

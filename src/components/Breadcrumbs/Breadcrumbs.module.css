@@ -8,13 +8,19 @@
 }
 
 .breadCrumListStyle {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
   width: 100%;
   padding: 10px;
   max-width: 1150px;
   margin: 20px auto 0;
-  /* margin: 40px 20px 10px; */
   display: flex;
   flex-wrap: wrap;
   list-style: none;
-  gap: 0.5rem;
+}
+
+@media (max-width: 767px) {
+  .breadCrumListStyle {
+    font-size: 13px;
+  }
 }

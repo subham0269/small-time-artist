@@ -1,0 +1,110 @@
+{
+  "label": "From Your Phone",
+  "heading": "From Your Phone",
+  "sub-heading": "Figma ipsum component variant main layer. Rectangle asset union scrolling editor boolean team. Selection mask image invite share outline scrolling. Figjam line variant background undo outline scale flows. Star layout main vertical scrolling content pencil plugin object move. Duplicate background comment slice mask mask bullet. Layout prototype inspect overflow invite arrow flows object overflow.",
+  "products": [
+    {
+      "id": 1,
+      "name": "The Sunshine girl phone cover",
+      "url": "the-sunshine-girl-phone-cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300",
+        "compared": "650"
+      }
+    },
+    {
+      "id": 2,
+      "name": "The Sunshine girl phone cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300"
+      }
+    },
+    {
+      "id": 3,
+      "name": "The Sunshine girl phone cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300",
+        "compared": "650"
+      }
+    },
+    {
+      "id": 4,
+      "name": "The Sunshine girl phone cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300"
+      }
+    },
+    {
+      "id": 5,
+      "name": "The Sunshine girl phone cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300",
+        "compared": "650"
+      }
+    },
+    {
+      "id": 6,
+      "name": "The Sunshine girl phone cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300"
+      }
+    },
+    {
+      "id": 7,
+      "name": "The Sunshine girl phone cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300",
+        "compared": "650"
+      }
+    },
+    {
+      "id": 8,
+      "name": "The Sunshine girl phone cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300"
+      }
+    },
+    {
+      "id": 9,
+      "name": "The Sunshine girl phone cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300",
+        "compared": "650"
+      }
+    },
+    {
+      "id": 10,
+      "name": "The Sunshine girl phone cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300"
+      }
+    },
+    {
+      "id": 11,
+      "name": "The Sunshine girl phone cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300",
+        "compared": "650"
+      }
+    },
+    {
+      "id": 12,
+      "name": "The Sunshine girl phone cover",
+      "cover_img": "1.png",
+      "price": {
+        "original": "300"
+      }
+    }
+  ]
+}

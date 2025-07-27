@@ -1,10 +1,14 @@
+import { useState } from "react";
+import { useNavigate } from "react-router";
+import { FiArrowUpRight } from "react-icons/fi";
+import css from "./Products.module.css";
 import classNames from "classnames";
 import Heading from "../../components/Heading/Heading";
 import MainContainer from "../../components/MainContainer/MainContainer";
 import Section from "../../components/Section/SectionContainer";
+import Breadcrumbs from "../../components/Breadcrumbs/Breadcrumbs";
 import WrapperContainer from "../../components/Wrapper/WrapperContainer";
-import { FiArrowUpRight } from "react-icons/fi";
-import css from "./Products.module.css";
+
 import card1 from "../../assets/decorations/products/card1_decor.svg";
 import card2 from "../../assets/decorations/products/card2_decor.svg";
 import card3 from "../../assets/decorations/products/card3_decor.svg";
@@ -31,11 +35,8 @@ import card10_img from "../../assets/content/products/grid_sec/card10.png";
 import card11_img from "../../assets/content/products/grid_sec/card11.png";
 import card12_img from "../../assets/content/products/grid_sec/card12.png";
 
-import sunshine from "../../assets/content/products/featured/sunshine.png";
-import greetings from "../../assets/content/products/featured/greetings.png";
-import { useState } from "react";
-import { useNavigate } from "react-router";
-import Breadcrumbs from "../../components/Breadcrumbs/Breadcrumbs";
+import featuredProducts from "../../data/products/featured.json";
+import url from "../../data/url.json";
 
 function Products() {
   const [hovered, setHovered] = useState(false);
@@ -127,20 +128,6 @@ function Products() {
     },
   ];
 
-  // cardData.js
-  const cardData = [
-    { title: "Sunshine Girl", image: sunshine },
-    { title: "Greetings Card", image: greetings },
-    { title: "Birthday Cake", image: sunshine },
-    { title: "Gift Basket", image: greetings },
-    { title: "Love Note", image: sunshine },
-    { title: "Rose Day Card", image: sunshine },
-    { title: "Anniversary Wishes", image: greetings },
-    { title: "Surprise Jar", image: sunshine },
-    { title: "Memory Scrapbook", image: greetings },
-    { title: "Couple Keychains", image: sunshine },
-  ];
-
   const handleChangeRoute = (url) => {
     navigate(`/products/${url}`);
   };
@@ -194,10 +181,14 @@ function Products() {
             [css.hideScroll]: !hovered,
           })}
         >
-          {cardData.map((card, index) => (
+          {featuredProducts?.list?.map((card, index) => (
             <div className={css.card} key={index}>
               <div className={css.imgContainer}>
-                <img src={card.image} alt={card.title} loading="lazy" />
+                <img
+                  src={`${url.supabase_url}/${featuredProducts?.folderPath}/${card.image}`}
+                  alt={card.title}
+                  loading="lazy"
+                />
               </div>
               <div>
                 <Heading className={css.h3} level="3">

@@ -1,6 +1,7 @@
 .footer {
   width: 100%;
   height: auto;
+  max-height: 400px;
   overflow: hidden;
   position: relative;
   margin-top: 100px;

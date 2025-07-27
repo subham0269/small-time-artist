@@ -1,0 +1,18 @@
+.heading {
+  color: var(--textColor2);
+  font-size: 4rem;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  /* padding: 1rem; */
+}
+
+@media (max-width: 767px) {
+  .heading {
+    font-size: 2rem;
+  }
+}

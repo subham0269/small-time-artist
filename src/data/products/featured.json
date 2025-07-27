@@ -1,0 +1,15 @@
+{
+  "folderPath": "featured/products",
+  "list": [
+    { "title": "Sunshine Girl", "image": "sunshine.png" },
+    { "title": "Greetings Card", "image": "greetings.png" },
+    { "title": "Birthday Cake", "image": "greetings.png" },
+    { "title": "Gift Basket", "image": "sunshine.png" },
+    { "title": "Love Note", "image": "greetings.png" },
+    { "title": "Rose Day Card", "image": "sunshine.png" },
+    { "title": "Anniversary Wishes", "image": "greetings.png" },
+    { "title": "Surprise Jar", "image": "greetings.png" },
+    { "title": "Memory Scrapbook", "image": "sunshine.png" },
+    { "title": "Couple Keychains", "image": "sunshine.png" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "the-sunshine-girl-phone-cover": {
+    "id": 1,
+    "title": "The Sunshine girl phone cover",
+    "desc": "Step into a captivating world of vintage charm and delightful nostalgia with our beautifully crafted aesthetic sunshine girl customised phone cases. Each case is designed to not only protect your device but also to reflect your unique personality and style, making it a perfect accessory for anyone who loves to stand out. Embrace the warmth of sunshine and the allure of retro aesthetics with these one-of-a-kind phone cases that are sure to turn heads wherever you go.",
+    "specialOffer": true,
+    "price": {
+      "original": 700,
+      "discounted": 600
+    },
+    "images": [
+      {
+        "img": "",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  }
+}
