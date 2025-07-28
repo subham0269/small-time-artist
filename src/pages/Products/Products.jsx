@@ -37,6 +37,7 @@ import card12_img from "../../assets/content/products/grid_sec/card12.png";
 
 import featuredProducts from "../../data/products/featured.json";
 import url from "../../data/url.json";
+import FAQ from "../../components/Faq/Faq";
 
 function Products() {
   const [hovered, setHovered] = useState(false);
@@ -198,6 +199,18 @@ function Products() {
             </div>
           ))}
         </div>
+      </Section>
+      <Section
+        className={(css.featured, css.faq)}
+        label="Frequently Asked Questions"
+      >
+        <Heading
+          className={classNames(css.featuredHeading, css.color)}
+          level="2"
+        >
+          Frequently Asked Questions
+        </Heading>
+        <FAQ data={featuredProducts.faq} />
       </Section>
     </MainContainer>
   );

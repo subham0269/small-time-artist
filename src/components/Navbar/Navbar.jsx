@@ -3,7 +3,9 @@ import css from "./Navbar.module.css";
 import CustomButton from "../Buttons/Buttons";
 import classNames from "classnames";
 import { useEffect, useState } from "react";
-import { Link, useLocation } from "react-router";
+import { Link, useLocation, useNavigate } from "react-router";
+import { TbMenu2 } from "react-icons/tb";
+import Modal from "../Modal/Modal";
 
 const Navbar = () => {
   const navList = [
@@ -13,7 +15,9 @@ const Navbar = () => {
     { path: "/reviews", name: "Reviews" },
   ];
   const [isScrolled, setIsScrolled] = useState(false);
+  const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
+  const navigate = useNavigate();
 
   useEffect(() => {
     const rootEl = document.getElementById("root");
@@ -36,30 +40,53 @@ const Navbar = () => {
   }, [isScrolled]);
 
   return (
-    <nav className={classNames(css.nav, { [css.navScroll]: isScrolled })}>
-      <div className={css.navContainer}>
-        <div className={css.logo}>
-          <img src={logo} alt="logo" loading="lazy" />
+    <>
+      <nav className={classNames(css.nav, { [css.navScroll]: isScrolled })}>
+        <div className={css.navContainer}>
+          <div className={css.logo}>
+            <img
+              onClick={() => navigate("/")}
+              src={logo}
+              alt="logo"
+              loading="lazy"
+            />
+          </div>
+          <div className={css.cont}>
+            <ul>
+              {navList.map((list, i) => (
+                <li key={i}>
+                  <Link className={css.navLink} to={list.path}>
+                    <CustomButton
+                      className={classNames(css.navButton, {
+                        [css.isActive]: location.pathname === list.path,
+                      })}
+                    >
+                      {list.name}
+                    </CustomButton>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+            <TbMenu2
+              className={css.svg}
+              onClick={() => setIsOpen((prev) => !prev)}
+            />
+          </div>
         </div>
-        <div>
-          <ul>
-            {navList.map((list, i) => (
-              <li key={i}>
-                <Link className={css.navLink} to={list.path}>
-                  <CustomButton
-                    className={classNames(css.navButton, {
-                      [css.isActive]: location.pathname === list.path,
-                    })}
-                  >
-                    {list.name}
-                  </CustomButton>
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </div>
-    </nav>
+      </nav>
+      <Modal
+        isOpen={isOpen}
+        onClose={(url) => {
+          if (!url) {
+            setIsOpen(false);
+          } else {
+            setIsOpen(false);
+            navigate(url);
+          }
+        }}
+        list={navList}
+      />
+    </>
   );
 };
 

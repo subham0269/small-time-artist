@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: auto;
 }
 
 :root {
@@ -27,6 +27,7 @@ html {
   --textColor: #523010;
   --bodyBg: #fffefa;
   --svgColor: #d5c4a1;
+  --svgColor2: #d4b598;
   /* hover */
   --textColorHover: #905a0c;
   --navbarButtonBgHover: #dfd4bb;
@@ -52,6 +53,7 @@ body {
 #root {
   height: 100dvh;
   overflow-y: auto;
+  scroll-behavior: smooth;
 }
 
 ul {

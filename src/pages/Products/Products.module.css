@@ -219,8 +219,14 @@
 }
 
 /* for mobile screens */
+.faq {
+  margin-top: 50px;
+}
 
 @media (max-width: 768px) {
+  .faq {
+    display: none;
+  }
   .heading {
     font-size: 42px;
 
@@ -464,6 +470,10 @@
 /* .featuredHeading {
   color: var(--largeTextColor) !important;
 } */
+
+.color {
+  color: var(--headingText);
+}
 
 .hideScroll {
   scrollbar-width: none !important; /* Firefox */

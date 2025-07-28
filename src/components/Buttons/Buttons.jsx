@@ -2,7 +2,6 @@ import classNames from "classnames";
 import css from "./Buttons.module.css";
 import { MdArrowOutward } from "react-icons/md";
 
-
 const Button = (props) => {
   const { children, className, ...rest } = props;
   return (
@@ -18,6 +17,7 @@ const CustomButton = (props) => {
     className,
     activeClassName,
     primary = false,
+    outward = undefined,
     onClick,
     disabled,
     isActive,
@@ -32,6 +32,7 @@ const CustomButton = (props) => {
       })}
       onClick={onClick}
       disabled={disabled}
+      outward={outward}
       {...rest}
     />
   );

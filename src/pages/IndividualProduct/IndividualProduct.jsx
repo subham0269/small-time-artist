@@ -12,6 +12,7 @@ import Loading from "../../components/Loading/Loading";
 import { PiOnigiriFill } from "react-icons/pi";
 import classNames from "classnames";
 import CustomButton from "../../components/Buttons/Buttons";
+import SliderCarousel from "../../components/Slider/Slider";
 
 function IndividualProduct() {
   const [currListing, setCurrentListing] = useState(null);
@@ -44,14 +45,16 @@ function IndividualProduct() {
   }
 
   return (
-    <MainContainer>
-      <Breadcrumbs />
-      <Section>
+    <MainContainer className={css.main}>
+      <Breadcrumbs className={css.changedW} />
+      <Section className={css.sec}>
         <WrapperContainer>
           <div className={css.container}>
-            <div>
-              <Slider></Slider>
+            <div className={css.carouselContainer}>
+              <SliderCarousel slides={currListing?.images} />
             </div>
+            {/* <div className={css.slider}> */}
+            {/* </div> */}
             <div className={css.mainContentContainer}>
               <Heading level="1" className={css.heading}>
                 {currListing?.title}
@@ -93,7 +96,7 @@ function IndividualProduct() {
                   </Heading>
                   <ExtraChargesInfo extraCharges={currListing?.extraCharges} />
                 </div>
-                <CustomButton className={css.button} primary outward>
+                <CustomButton outward={"true"} className={css.button} primary>
                   Buy Now
                 </CustomButton>
               </div>

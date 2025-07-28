@@ -8,10 +8,12 @@ import Footer from "./components/Footer/Footer";
 import Reviews from "./pages/Reviews/Reviews";
 import ProductSubCategories from "./pages/ProductSubCategories/ProductSubCategories";
 import IndividualProduct from "./pages/IndividualProduct/IndividualProduct";
+import ScrollToTop from "./ScrollToTop";
 
 function App() {
   return (
     <>
+      <ScrollToTop />
       <Navbar />
       <Routes>
         <Route path="/" element={<LandingPage />} />

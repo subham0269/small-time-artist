@@ -13,8 +13,10 @@ import glimpseHead from "../../assets/decorations/glimpse_head.svg";
 import HeroImg from "../../assets/page/LandingPage/HeroImg1.png";
 
 import decorationLand from "../../assets/decorations/landing.png";
+import { useNavigate } from "react-router";
 
 const LandingPage = () => {
+  const navigate = useNavigate();
   const creativeProcess = [
     {
       title: "Get In Touch",
@@ -44,6 +46,10 @@ const LandingPage = () => {
     "https://fastly.picsum.photos/id/861/500/800.jpg?hmac=eIw6j2n0nMexqr0pgVI9_XJQZlQVJECocVYOTH6d7hs",
   ];
 
+  const handleRedirect = () => {
+    navigate("/products");
+  };
+
   return (
     <MainContainer>
       <Section
@@ -70,7 +76,12 @@ const LandingPage = () => {
             />
           </div>
           <div className={css.cta}>
-            <CustomButton outward className={css.ctaBtn} primary>
+            <CustomButton
+              onClick={handleRedirect}
+              outward
+              className={css.ctaBtn}
+              primary
+            >
               Explore Her Art
             </CustomButton>
           </div>
@@ -110,7 +121,7 @@ const LandingPage = () => {
           </div>
           <div className={css.gridContainer}>
             {imageGallery.map((link, i) => (
-              <div className={css.gridCard}>
+              <div key={i} className={css.gridCard}>
                 <img
                   className={css.gridImg}
                   src={link}

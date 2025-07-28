@@ -2,8 +2,9 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import css from "./Breadcrumbs.module.css";
+import classNames from "classnames";
 
-const Breadcrumbs = () => {
+const Breadcrumbs = ({ className }) => {
   const location = useLocation();
   const pathnames = location.pathname.split("/").filter(Boolean);
 
@@ -16,7 +17,7 @@ const Breadcrumbs = () => {
 
   return (
     // <nav aria-label="breadcrumb" style={{ padding: "1rem 0" }}>
-    <ol className={css.breadCrumListStyle}>
+    <ol className={classNames(css.breadCrumListStyle, className)}>
       <li>
         <Link className={css.link} to="/">
           Home
