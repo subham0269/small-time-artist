@@ -1,0 +1,137 @@
+{
+  "label": "Nestled Nooks",
+  "heading": "Nestled Nooks",
+  "sub-heading": "<p><strong>Tiny corners, big personality.</strong></p><p>Discover thoughtful home décor accents that transform every nook into a reflection of you. From shelf styling essentials to custom Story Walls, bring warmth, creativity, and character to your space\u2014one corner at a time.</p>",
+  "products": [
+    {
+      "id": 1,
+      "name": "Haven Eye (Wooden Evil Eye Wall Hang)",
+      "url": "haven-eye",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "499",
+          "compared": "",
+          "excl": "shipping"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Breeze Bloomers (Balcony Hangs)",
+      "url": "breeze-bloomers",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "399",
+          "compared": "",
+          "excl": "shipping"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Everyday Wall Stories (Handpainted Posters)",
+      "url": "everyday-wall-stories",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "499",
+          "compared": "",
+          "excl": "shipping"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Home Harmony (Hand-Painted MDF Wall Decor)",
+      "url": "home-harmony",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "599",
+          "compared": "",
+          "excl": "shipping"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Grain & Grace (Wooden Wall Hangs)",
+      "url": "grain-and-grace",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "999",
+          "compared": "",
+          "excl": "shipping"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Name It Pretty (Nameplates)",
+      "url": "name-it-pretty",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "599",
+          "compared": "",
+          "excl": "shipping"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Keys & Keeps (Painted Wooden Key Holders)",
+      "url": "keys-and-keeps",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "1499",
+          "compared": "",
+          "excl": "shipping"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Table Tales (Tabletop Art & Posters)",
+      "url": "table-tales",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "299",
+          "compared": "",
+          "excl": "shipping"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Story Walls (Custom Wall Art)",
+      "url": "story-walls",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "1999",
+          "compared": "",
+          "excl": "shipping"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Painted Keepsakes (Acrylic Frames)",
+      "url": "painted-keepsakes",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "449",
+          "compared": "",
+          "excl": "shipping"
+        }
+      ]
+    }
+  ]
+}

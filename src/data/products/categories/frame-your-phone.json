@@ -1,110 +1,180 @@
 {
-  "label": "From Your Phone",
-  "heading": "From Your Phone",
-  "sub-heading": "Figma ipsum component variant main layer. Rectangle asset union scrolling editor boolean team. Selection mask image invite share outline scrolling. Figjam line variant background undo outline scale flows. Star layout main vertical scrolling content pencil plugin object move. Duplicate background comment slice mask mask bullet. Layout prototype inspect overflow invite arrow flows object overflow.",
+  "label": "Frame Your Phone",
+  "heading": "Frame Your Phone",
+  "sub-heading": "Discover one-of-a-kind, hand-designed phone covers crafted in a collage style that’s as unique as you are. No two covers are ever the same — each piece is fully personalised to your vibe, style, and story. From bold and quirky to minimalist and magical, these custom phone covers turn your everyday essential into a work of art.",
   "products": [
     {
       "id": 1,
-      "name": "The Sunshine girl phone cover",
-      "url": "the-sunshine-girl-phone-cover",
+      "name": "The Custom Edit",
+      "url": "the-custom-edit",
       "cover_img": "1.png",
-      "price": {
-        "original": "300",
-        "compared": "650"
-      }
+      "price": [
+        {
+          "original": "579",
+          "compared": "605",
+          "excl": "shipping"
+        }
+      ]
     },
     {
       "id": 2,
-      "name": "The Sunshine girl phone cover",
+      "name": "City Souls (Kolkata Edition)",
+      "url": "city-souls-kolkata",
       "cover_img": "1.png",
-      "price": {
-        "original": "300"
-      }
+      "price": [
+        {
+          "original": "579",
+          "compared": "605",
+          "excl": "shipping",
+          "incl": "Complete Case"
+        },
+        {
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "incl": "Insert Only"
+        }
+      ]
     },
     {
       "id": 3,
-      "name": "The Sunshine girl phone cover",
+      "name": "City Souls",
+      "url": "city-souls",
       "cover_img": "1.png",
-      "price": {
-        "original": "300",
-        "compared": "650"
-      }
+      "price": [
+        {
+          "original": "579",
+          "compared": "605",
+          "excl": "shipping",
+          "incl": "Complete Case"
+        },
+        {
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "incl": "Insert Only"
+        }
+      ]
     },
     {
       "id": 4,
-      "name": "The Sunshine girl phone cover",
+      "name": "The Gogh Edit",
+      "url": "the-gogh-edit",
       "cover_img": "1.png",
-      "price": {
-        "original": "300"
-      }
+      "price": [
+        {
+          "original": "579",
+          "compared": "605",
+          "excl": "shipping",
+          "incl": "Complete Case"
+        },
+        {
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "incl": "Insert Only"
+        }
+      ]
     },
     {
       "id": 5,
-      "name": "The Sunshine girl phone cover",
+      "name": "Mood & Muse",
+      "url": "mood-muse",
       "cover_img": "1.png",
-      "price": {
-        "original": "300",
-        "compared": "650"
-      }
+      "price": [
+        {
+          "original": "579",
+          "compared": "605",
+          "excl": "shipping",
+          "incl": "Complete Case"
+        },
+        {
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "incl": "Insert Only"
+        }
+      ]
     },
     {
       "id": 6,
-      "name": "The Sunshine girl phone cover",
+      "name": "Mood & Muse (Taylor’s Version)",
+      "url": "mood-muse-taylor",
       "cover_img": "1.png",
-      "price": {
-        "original": "300"
-      }
+      "price": [
+        {
+          "original": "579",
+          "compared": "605",
+          "excl": "shipping",
+          "incl": "Complete Case"
+        },
+        {
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "incl": "Insert Only"
+        }
+      ]
     },
     {
       "id": 7,
-      "name": "The Sunshine girl phone cover",
+      "name": "Mood & Muse (Ray’s Scope)",
+      "url": "mood-muse-ray-scope",
       "cover_img": "1.png",
-      "price": {
-        "original": "300",
-        "compared": "650"
-      }
+      "price": [
+        {
+          "original": "579",
+          "compared": "605",
+          "excl": "shipping",
+          "incl": "Complete Case"
+        },
+        {
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "incl": "Insert Only"
+        }
+      ]
     },
     {
       "id": 8,
-      "name": "The Sunshine girl phone cover",
+      "name": "Mood & Muse (Durga Pujo Edition)",
+      "url": "mood-muse-durga-pujo",
       "cover_img": "1.png",
-      "price": {
-        "original": "300"
-      }
+      "price": [
+        {
+          "original": "579",
+          "compared": "605",
+          "excl": "shipping",
+          "incl": "Complete Case"
+        },
+        {
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "incl": "Insert Only"
+        }
+      ]
     },
     {
       "id": 9,
-      "name": "The Sunshine girl phone cover",
+      "name": "Stories You Carry",
+      "url": "stories-you-carry",
       "cover_img": "1.png",
-      "price": {
-        "original": "300",
-        "compared": "650"
-      }
-    },
-    {
-      "id": 10,
-      "name": "The Sunshine girl phone cover",
-      "cover_img": "1.png",
-      "price": {
-        "original": "300"
-      }
-    },
-    {
-      "id": 11,
-      "name": "The Sunshine girl phone cover",
-      "cover_img": "1.png",
-      "price": {
-        "original": "300",
-        "compared": "650"
-      }
-    },
-    {
-      "id": 12,
-      "name": "The Sunshine girl phone cover",
-      "cover_img": "1.png",
-      "price": {
-        "original": "300"
-      }
+      "price": [
+        {
+          "original": "579",
+          "compared": "605",
+          "excl": "shipping",
+          "incl": "Complete Case"
+        },
+        {
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "incl": "Insert Only"
+        }
+      ]
     }
   ]
 }

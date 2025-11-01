@@ -50,7 +50,10 @@ function ProductSubCategories() {
             {data?.heading}
           </Heading>
           {data?.["sub-heading"] && (
-            <p className={css.desc}>{data?.["sub-heading"]}</p>
+            <p
+              className={css.desc}
+              dangerouslySetInnerHTML={{ __html: data?.["sub-heading"] }}
+            />
           )}
           <div className={css.gridWrapper}>
             <div className={css.filters}>
@@ -75,12 +78,28 @@ function ProductSubCategories() {
                     </div>
                     <div className={css.details}>
                       <Heading level="3">{e?.name}</Heading>
-                      <span>{`\u20B9${e?.price?.original}`}</span>
+                      {e?.price?.map((_) => (
+                        <p>
+                          <span>{`\u20B9${_?.original}`}</span>
+                          {_?.compared && (
+                            <span
+                              className={css.comparedP}
+                            >{`\u20B9${_?.compared}`}</span>
+                          )}
+                          {_?.excl && (
+                            <span className={css.excl}>{` + ${_?.excl}`}</span>
+                          )}
+                          {_?.incl && (
+                            <span className={css.incl}>{`- ${_?.incl}`}</span>
+                          )}
+                        </p>
+                      ))}
+                      {/* <span>{`\u20B9${e?.price?.original}`}</span>
                       {e?.price?.compared && (
                         <span
                           className={css.comparedP}
                         >{`\u20B9${e?.price?.compared}`}</span>
-                      )}
+                      )} */}
                     </div>
                   </div>
                 ))

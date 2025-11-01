@@ -87,6 +87,9 @@ function IndividualProduct() {
   const location = useLocation();
   const productUrl = location.pathname.split("/").pop();
   let average = null;
+
+  const buyMessage = `<span style='color: #d9534f;'>Add your twist—customize this phone cover with your style in seconds. Tap 'Buy' and we’ll craft your design together on WhatsApp.</span>`;
+
   useEffect(() => {
     if (
       productUrl &&
@@ -133,7 +136,14 @@ function IndividualProduct() {
                     <Heading className={css.desHeading} level="2">
                       Craft Story
                     </Heading>
-                    <p className={css.desc}>{currListing?.desc}</p>
+                    <p
+                      className={css.desc}
+                      dangerouslySetInnerHTML={{
+                        __html: `${currListing?.desc}${
+                          currListing?.buyInfoShow ? buyMessage : ""
+                        }`,
+                      }}
+                    />
                   </div>
                   <div>
                     {currListing?.specialOffer && (

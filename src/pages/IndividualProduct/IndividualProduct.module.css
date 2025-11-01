@@ -22,6 +22,14 @@
   & .desc {
     color: var(--subSecondaryBlack);
     font-family: "Geist", sans-serif;
+
+    & > p {
+      margin-top: 10px;
+    }
+    & > span {
+      display: inline-block;
+      margin-top: 5px;
+    }
   }
 
   & .specialOffer {

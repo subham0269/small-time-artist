@@ -28,5 +28,592 @@
       "max": 14,
       "unit": "days"
     }
+  },
+  "the-custom-edit": {
+    "id": 2,
+    "title": "The Custom Edit",
+    "desc": "<p><strong>Personalized phone covers</strong> designed to match your unique aesthetic—upload your colors, mood, or design ideas and transform them into a one-of-a-kind case crafted just for you.</p><p><strong>Available with phone cover</strong> (specific brand covers may have extra charges) or <strong>as insert only</strong>, giving you complete flexibility. Simply fill in a few quick details while ordering, and we’ll connect on WhatsApp to finalize your design together.</p><p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.<br>Add your twist, showcase your vibe, and carry a phone cover that tells <em>your story</em>.</p>",
+    "specialOffer": true,
+    "price": {
+      "original": 605,
+      "discounted": 579
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "city-souls-kolkata": {
+    "id": 3,
+    "title": "City Souls (Kolkata Edition)",
+    "desc": "<p><strong>Celebrate the charm of Kolkata</strong> with doodle-blend phone covers and inserts inspired by the city’s core aesthetics, culture, and heritage. Each design captures Kolkata’s unique soul—its streets, art, and timeless stories—blending them into creative everyday essentials.</p><p><strong>Available with complete phone cover</strong> (specific brand covers may incur extra charges) or <strong>as insert only</strong>.</p><p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.<br>Carry your city’s story in your hands—where culture meets design.</p>",
+    "specialOffer": true,
+    "price": {
+      "original": 605,
+      "discounted": 579
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "city-souls": {
+    "id": 4,
+    "title": "City Souls",
+    "desc": "<p><strong>Discover city-inspired phone inserts and covers</strong> designed with culture-rich artistry and their trends. Each collection is grouped by a city's soul essence, bringing unique local charm and creative design to your everyday essentials.</p><p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.<br></p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "original": 605,
+      "discounted": 579
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "the-gogh-edit": {
+    "id": 4,
+    "title": "The Gogh Edit",
+    "desc": "<p><strong>Starry Dreams</strong> brings Van Gogh-style artistry, iconic paintings, and creative designs to life. Perfect for Starry Night lovers, these vibrant and artistic covers add a touch of elegance and inspiration to your collection.</p><p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.</p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "original": 605,
+      "discounted": 579
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "mood-muse": {
+    "id": 5,
+    "title": "Mood & Muse | Frame Your Phone",
+    "desc": "<p><strong>Discover aesthetic phone covers and inserts</strong> in minimal, pastel, and floral designs. Versatile, stylish, and trend-driven, they let you rotate looks with every season and mood.</p> <p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.</p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "original": 605,
+      "discounted": 579
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "mood-muse-taylor-version": {
+    "id": 6,
+    "title": "Mood & Muse (Taylor’s Version) | Frame Your Phone",
+    "desc": "<p><strong>Discover aesthetic phone covers and inserts</strong> inspired by Taylor Swift’s iconic eras. Featuring minimal, pastel, and floral designs with a Swiftie twist, they’re versatile, stylish, and trend-driven—perfect for rotating your look with every season and mood.</p> <p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.</p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "original": 605,
+      "discounted": 579
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "mood-muse-ray-scope": {
+    "id": 7,
+    "title": "Mood & Muse (Ray’s Scope) | Frame Your Phone ",
+    "desc": "<p><strong>Discover aesthetic phone covers and inserts</strong> inspired by the timeless characters and artistry of Satyajit Ray. Minimal, pastel, and creative motifs make them versatile, stylish, and trend-driven—perfect for rotating your look with every season and mood.</p><p><em>No repeats, no copies</em>—each phone cover is uniquely crafted just for you.</p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "original": 605,
+      "discounted": 579
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "mood-muse-durga-pujo": {
+    "id": 8,
+    "title": "Mood & Muse (Durga Pujo Edition) | Frame Your Phone",
+    "desc": "<p><strong>Discover aesthetic phone covers and inserts</strong> inspired by the vibrance of Durga Puja. With festive motifs, cultural artistry, and elegant seasonal designs, they\u2019re versatile, stylish, and trend-driven—perfect for rotating your look with every season and mood.</p><p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.</p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "original": 605,
+      "discounted": 579
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "stories-you-carry": {
+    "id": 9,
+    "title": "Stories You Carry | Frame Your Phone",
+    "desc": "<p><strong>Discover aesthetic phone covers and inserts</strong> inspired by the vibrance of Durga Puja. With festive motifs, cultural artistry, and elegant seasonal designs, they\u2019re versatile, stylish, and trend-driven—perfect for rotating your look with every season and mood.</p><p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.</p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "original": 605,
+      "discounted": 579
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "haven-eye": {
+    "id": 10,
+    "title": "Haven Eye (Wooden Evil Eye Wall Hang)",
+    "desc": "<p><strong>This intricately hand-painted wooden evil eye wall hang</strong> blends protective symbolism with timeless artistry. Its bold colors and delicate brushwork radiate charm and positivity. A striking décor accent that safeguards while beautifying your space.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "original": 499,
+      "discounted": 579
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "breeze-bloomers": {
+    "id": 11,
+    "title": "Breeze Bloomers (Balcony Hangs)",
+    "desc": "<p><strong>Bring life to your balcony</strong> with whimsical hanging art that twirls gracefully in the breeze. Each piece is hand-painted with dreamy colors and enchanting details. A playful touch that transforms outdoor spaces into vibrant retreats.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "original": 499,
+      "discounted": ""
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "everyday-wall-stories": {
+    "id": 12,
+    "title": "Everyday Wall Stories (Handpainted Posters)",
+    "desc": "<p><strong>Add personality to your walls</strong> with quirky, hand-painted posters and decor panels that reflect your vibe. From bold life quotes to vibrant artistic designs, each piece is a statement of creativity. Perfect for bedrooms, living rooms, studios, or workspaces, these trendy wall art pieces turn blank spaces into expressive reflections of your lifestyle.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "original": 499,
+      "discounted": ""
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "home-harmony": {
+    "id": 13,
+    "title": "Home Harmony (Hand-Painted MDF Wall Decor)",
+    "desc": "<p><strong>Add personality to your walls</strong> with quirky, hand-painted posters and decor panels that reflect your vibe. From bold life quotes to vibrant artistic designs, each piece is a statement of creativity. Perfect for bedrooms, living rooms, studios, or workspaces, these trendy wall art pieces turn blank spaces into expressive reflections of your lifestyle.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "original": 499,
+      "discounted": ""
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "grain-and-grace": {
+    "id": 14,
+    "title": "Grain & Grace (Wooden Wall Hangs)",
+    "desc": "<p><strong>Celebrate rustic charm</strong> with hand-painted wooden wall décor that exudes elegance. Muted tones and graceful designs create a warm, organic presence. A perfect blend of earthy beauty and artistic finesse.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "original": 999,
+      "discounted": ""
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "name-it-pretty": {
+    "id": 15,
+    "title": "Name It Pretty (Nameplates)",
+    "desc": "<p><strong>Make entrances unforgettable</strong> with bespoke, hand-painted nameplates full of charm. Bold colors and artistic details add a warm, welcoming touch. A creative way to tell your story right at the doorstep.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "original": 599,
+      "discounted": ""
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "keys-and-keeps": {
+    "id": 16,
+    "title": "Keys & Keeps (Painted Wooden Key Holders)",
+    "desc": "<p><strong>Organize with elegance</strong> using painted wooden key holders that marry function and beauty. Each design bursts with vivid colors and artistic flair. A stylish solution for keeping essentials safe and visible.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "original": 1499,
+      "discounted": ""
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "table-tales": {
+    "id": 17,
+    "title": "Table Tales (Tabletop Art & Posters)",
+    "desc": "<p><strong>Tell your story through art that stands tall.</strong> Custom tabletop canvases and posters capture cinematic moments, cherished memories, and creative expressions — a perfect fusion of personal style and artful storytelling.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "original": 299,
+      "discounted": ""
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "story-walls": {
+    "id": 18,
+    "title": "Story Walls (Custom Wall Art)",
+    "desc": "<p><strong>Turn your walls into personal stories that reflect your style.</strong></p><p>Our Story Walls offer fully customized art on MDF, plywood, or your chosen medium, designed to suit your color palette, aesthetic, and home vibe. Collaborate with us to bring your ideas to life, from concept to creation, and make every wall a reflection of your personality.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "original": 1999,
+      "discounted": ""
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "painted-keepsakes": {
+    "id": 18,
+    "title": "Painted Keepsakes (Acrylic Frames)",
+    "desc": "<p><strong>Preserve your moments in timeless clarity.</strong></p><p>Our acrylic frames turn cherished memories and art into sleek, modern keepsakes — combining durability with a crystal-clear finish. Each piece is customized to your colors and style, making it the perfect blend of personal sentiment and contemporary design.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "original": 499,
+      "discounted": ""
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
   }
 }
