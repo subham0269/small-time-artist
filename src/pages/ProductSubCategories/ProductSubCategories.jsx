@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import css from "./ProductSubCategories.module.css";
+import { Helmet } from "react-helmet";
 import MainContainer from "../../components/MainContainer/MainContainer";
 import Section from "../../components/Section/SectionContainer";
 import { Navigate, useLocation, useNavigate, useParams } from "react-router";
@@ -43,6 +44,56 @@ function ProductSubCategories() {
 
   return (
     <MainContainer>
+      <Helmet>
+        <title>{`${data?.heading || "Products"} - Small Time Artist`}</title>
+        <meta
+          name="description"
+          content={
+            data?.["sub-heading"]?.replace(/<[^>]*>/g, "") ||
+            "Browse our collection of handcrafted products."
+          }
+        />
+
+        {/* Open Graph / Facebook */}
+        <meta property="og:type" content="website" />
+        <meta
+          property="og:title"
+          content={`${data?.heading || "Products"} - Small Time Artist`}
+        />
+        <meta
+          property="og:description"
+          content={
+            data?.["sub-heading"]?.replace(/<[^>]*>/g, "") ||
+            "Browse our collection of handcrafted products."
+          }
+        />
+        {data?.products?.[0]?.cover_img && (
+          <meta
+            property="og:image"
+            content={`${baseUrl.supabase_url}/${data.products[0].cover_img}`}
+          />
+        )}
+
+        {/* Twitter */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content={`${data?.heading || "Products"} - Small Time Artist`}
+        />
+        <meta
+          name="twitter:description"
+          content={
+            data?.["sub-heading"]?.replace(/<[^>]*>/g, "") ||
+            "Browse our collection of handcrafted products."
+          }
+        />
+        {data?.products?.[0]?.cover_img && (
+          <meta
+            name="twitter:image"
+            content={`${baseUrl.supabase_url}/${data.products[0].cover_img}`}
+          />
+        )}
+      </Helmet>
       <Breadcrumbs />
       <Section label={data?.label}>
         <WrapperContainer className={css.wrapper}>

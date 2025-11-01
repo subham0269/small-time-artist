@@ -1,6 +1,7 @@
 import { Route, Routes } from "react-router";
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
+import { Helmet } from "react-helmet";
 import LandingPage from "./pages/LandingPage/LandingPage";
 import AboutHer from "./pages/About/AboutHer";
 import Products from "./pages/Products/Products";
@@ -13,6 +14,12 @@ import ScrollToTop from "./ScrollToTop";
 function App() {
   return (
     <>
+      <Helmet>
+        {/* Default meta tags */}
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="/logo.svg" />
+      </Helmet>
       <ScrollToTop />
       <Navbar />
       <Routes>

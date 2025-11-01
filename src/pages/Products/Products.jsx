@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router";
+import { Helmet } from "react-helmet";
 import { FiArrowUpRight } from "react-icons/fi";
 import css from "./Products.module.css";
 import classNames from "classnames";
@@ -135,6 +136,37 @@ function Products() {
 
   return (
     <MainContainer>
+      <Helmet>
+        <title>Our Collections - Small Time Artist</title>
+        <meta
+          name="description"
+          content="Browse our unique collection of handcrafted products - from Frame Your Phone to Nestled Nook. Discover artisanal creations that blend beauty with functionality."
+        />
+
+        {/* Open Graph / Facebook */}
+        <meta property="og:type" content="website" />
+        <meta
+          property="og:title"
+          content="Our Collections - Small Time Artist"
+        />
+        <meta
+          property="og:description"
+          content="Browse our unique collection of handcrafted products - from Frame Your Phone to Nestled Nook. Discover artisanal creations that blend beauty with functionality."
+        />
+        <meta property="og:image" content={card1_img} />
+
+        {/* Twitter */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content="Our Collections - Small Time Artist"
+        />
+        <meta
+          name="twitter:description"
+          content="Browse our unique collection of handcrafted products - from Frame Your Phone to Nestled Nook. Discover artisanal creations that blend beauty with functionality."
+        />
+        <meta name="twitter:image" content={card1_img} />
+      </Helmet>
       <Breadcrumbs />
       <Section label="All product categories">
         <WrapperContainer className={css.heroWrapper}>

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import MainContainer from "../../components/MainContainer/MainContainer";
 import Section from "../../components/Section/SectionContainer";
+import { Helmet } from "react-helmet";
 import WrapperContainer from "../../components/Wrapper/WrapperContainer";
 import Heading from "../../components/Heading/Heading";
 import Breadcrumbs from "../../components/Breadcrumbs/Breadcrumbs";
@@ -115,8 +116,64 @@ function IndividualProduct() {
     return <p className={css.charges}>{formatted}</p>;
   }
 
+  // Function to strip HTML tags from description
+  const stripHtml = (html) => {
+    return html?.replace(/<[^>]*>/g, "");
+  };
+
+  // Format price for meta description
+  const formatPrice = () => {
+    let priceText = `₹${original}`;
+    if (discounted) {
+      priceText = `₹${discounted} (Regular Price: ₹${original}, Save ${average}%)`;
+    }
+    return priceText;
+  };
+
   return (
     <>
+      <Helmet>
+        <title>{`${
+          currListing?.title || "Product"
+        } - Small Time Artist`}</title>
+        <meta
+          name="description"
+          content={`${stripHtml(currListing?.desc)} ${formatPrice()}`}
+        />
+
+        {/* Open Graph / Facebook */}
+        <meta property="og:type" content="product" />
+        <meta
+          property="og:title"
+          content={`${currListing?.title || "Product"} - Small Time Artist`}
+        />
+        <meta
+          property="og:description"
+          content={stripHtml(currListing?.desc)}
+        />
+        {currListing?.images?.[0] && (
+          <meta property="og:image" content={currListing.images[0]} />
+        )}
+        <meta
+          property="product:price:amount"
+          content={discounted || original}
+        />
+        <meta property="product:price:currency" content="INR" />
+
+        {/* Twitter */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content={`${currListing?.title || "Product"} - Small Time Artist`}
+        />
+        <meta
+          name="twitter:description"
+          content={stripHtml(currListing?.desc)}
+        />
+        {currListing?.images?.[0] && (
+          <meta name="twitter:image" content={currListing.images[0]} />
+        )}
+      </Helmet>
       <MainContainer className={css.main}>
         <Breadcrumbs className={css.changedW} />
         <Section className={css.sec}>

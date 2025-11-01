@@ -14,6 +14,7 @@ import HeroImg from "../../assets/page/LandingPage/HeroImg1.png";
 
 import decorationLand from "../../assets/decorations/landing.png";
 import { useNavigate } from "react-router";
+import { Helmet } from "react-helmet";
 
 const LandingPage = () => {
   const navigate = useNavigate();
@@ -52,6 +53,37 @@ const LandingPage = () => {
 
   return (
     <MainContainer>
+      <Helmet>
+        <title>Small Time Artist - Handcrafted Artistry & Creative Works</title>
+        <meta
+          name="description"
+          content="Discover unique handcrafted products and artistic creations. From phone frames to home decor, each piece is crafted with love and creativity."
+        />
+
+        {/* Open Graph / Facebook */}
+        <meta property="og:type" content="website" />
+        <meta
+          property="og:title"
+          content="Small Time Artist - Handcrafted Artistry & Creative Works"
+        />
+        <meta
+          property="og:description"
+          content="Discover unique handcrafted products and artistic creations. From phone frames to home decor, each piece is crafted with love and creativity."
+        />
+        <meta property="og:image" content={HeroImg} />
+
+        {/* Twitter */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content="Small Time Artist - Handcrafted Artistry & Creative Works"
+        />
+        <meta
+          name="twitter:description"
+          content="Discover unique handcrafted products and artistic creations. From phone frames to home decor, each piece is crafted with love and creativity."
+        />
+        <meta name="twitter:image" content={HeroImg} />
+      </Helmet>
       <Section
         className={css.herosec}
         label={"Introduction of Smalltime Artiste"}
