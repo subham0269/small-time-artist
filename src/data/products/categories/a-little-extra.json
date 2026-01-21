@@ -1,0 +1,91 @@
+{
+  "label": "A Little Extra",
+  "heading": "A Little Extra (Gift hampers)",
+  "sub-heading": "Because meaningful moments deserve thoughtful curation. A Little Extra is a collection of handcrafted and personalised gift hampers designed for weddings, birthdays, relationships, parents, and everyday celebrations. Each hamper is thoughtfully curated with artisanal keepsakes, hand-painted details, and custom touches to suit your occasion and recipient.",
+  "products": [
+    {
+      "id": 1,
+      "name": "Vows & Vibes (Wedding & Bridesmaid Hamper)",
+      "url": "vows-and-vibes",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "799",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Tailor Your Treasure (Custom Gift Hamper)",
+      "url": "tailor-your-treasure",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "1299",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Born to Celebrate (Birthday Gift Hamper)",
+      "url": "born-to-celebrate",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "1099",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pocketful of Joy (Mini Gift Hamper)",
+      "url": "pocketful-of-joy",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "349",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "For the Muse of My Heart (Romantic Gift Hamper)",
+      "url": "for-the-muse-of-my-heart",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "1799",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Roots & Gratitude (Parents' Gift Hamper)",
+      "url": "roots-and-gratitude",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "999",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    }
+  ]
+}

@@ -32,11 +32,10 @@
   "the-custom-edit": {
     "id": 2,
     "title": "The Custom Edit",
-    "desc": "<p><strong>Personalized phone covers</strong> designed to match your unique aesthetic—upload your colors, mood, or design ideas and transform them into a one-of-a-kind case crafted just for you.</p><p><strong>Available with phone cover</strong> (specific brand covers may have extra charges) or <strong>as insert only</strong>, giving you complete flexibility. Simply fill in a few quick details while ordering, and we’ll connect on WhatsApp to finalize your design together.</p><p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.<br>Add your twist, showcase your vibe, and carry a phone cover that tells <em>your story</em>.</p>",
+    "desc": "<p><strong>The Custom Edit</strong> is for complete creative freedom. If you have a clear idea, a Pinterest board, a colour palette, or a theme in mind, this is where you share it all. From minimal designs to detailed expressive layouts, we build your phone cover from scratch based on your references and description.</p><p>This option is perfect if you want something truly specific, different, or design-driven.</p><p><strong>Add to Cart</strong>, share your preferences and we'll complete your customised phone case design together on WhatsApp.</p>",
     "specialOffer": true,
     "price": {
-      "original": 605,
-      "discounted": 579
+      "discounted": 249
     },
     "images": [
       {
@@ -65,8 +64,7 @@
     "desc": "<p><strong>Celebrate the charm of Kolkata</strong> with doodle-blend phone covers and inserts inspired by the city’s core aesthetics, culture, and heritage. Each design captures Kolkata’s unique soul—its streets, art, and timeless stories—blending them into creative everyday essentials.</p><p><strong>Available with complete phone cover</strong> (specific brand covers may incur extra charges) or <strong>as insert only</strong>.</p><p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.<br>Carry your city’s story in your hands—where culture meets design.</p>",
     "specialOffer": true,
     "price": {
-      "original": 605,
-      "discounted": 579
+      "discounted": 249
     },
     "images": [
       {
@@ -96,8 +94,7 @@
     "buyInfoShow": true,
     "specialOffer": true,
     "price": {
-      "original": 605,
-      "discounted": 579
+      "discounted": 249
     },
     "images": [
       {
@@ -127,8 +124,7 @@
     "buyInfoShow": true,
     "specialOffer": true,
     "price": {
-      "original": 605,
-      "discounted": 579
+      "discounted": 249
     },
     "images": [
       {
@@ -158,8 +154,7 @@
     "buyInfoShow": true,
     "specialOffer": true,
     "price": {
-      "original": 605,
-      "discounted": 579
+      "discounted": 249
     },
     "images": [
       {
@@ -182,15 +177,44 @@
       "unit": "days"
     }
   },
-  "mood-muse-taylor-version": {
+  "mood-muse-aesthetic": {
+    "id": 22,
+    "title": "Mood & Muse (Aesthetic) | Frame Your Phone",
+    "desc": "<p><strong>Mood & Muse (Aesthetic)</strong> phone covers are designed around your vibe. This collection turns your favourite colours, moods, interests, music, and everyday preferences into an aesthetic collage made just for you. Whether you love soft pastels, bold contrasts, cinematic moods, or minimal designs, we translate your personality into visual form.</p><p>From tea vs coffee and day vs night, to your favourite artist, movie or quote — every detail you share helps us build a phone design that feels like a moodboard of you.</p><p><strong>Add to Cart</strong>, share your preferences and we'll complete your customised phone case design together on WhatsApp.</p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "discounted": 249
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "mood-muse-taylor": {
     "id": 6,
     "title": "Mood & Muse (Taylor’s Version) | Frame Your Phone",
     "desc": "<p><strong>Discover aesthetic phone covers and inserts</strong> inspired by Taylor Swift’s iconic eras. Featuring minimal, pastel, and floral designs with a Swiftie twist, they’re versatile, stylish, and trend-driven—perfect for rotating your look with every season and mood.</p> <p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.</p>",
     "buyInfoShow": true,
     "specialOffer": true,
     "price": {
-      "original": 605,
-      "discounted": 579
+      "discounted": 249
     },
     "images": [
       {
@@ -220,8 +244,7 @@
     "buyInfoShow": true,
     "specialOffer": true,
     "price": {
-      "original": 605,
-      "discounted": 579
+      "discounted": 249
     },
     "images": [
       {
@@ -251,8 +274,7 @@
     "buyInfoShow": true,
     "specialOffer": true,
     "price": {
-      "original": 605,
-      "discounted": 579
+      "discounted": 249
     },
     "images": [
       {
@@ -278,12 +300,11 @@
   "stories-you-carry": {
     "id": 9,
     "title": "Stories You Carry | Frame Your Phone",
-    "desc": "<p><strong>Discover aesthetic phone covers and inserts</strong> inspired by the vibrance of Durga Puja. With festive motifs, cultural artistry, and elegant seasonal designs, they\u2019re versatile, stylish, and trend-driven—perfect for rotating your look with every season and mood.</p><p><em>No repeats, no copies</em>—every phone cover is made uniquely for you.</p>",
+    "desc": "<p><strong>Stories You Carry</strong> phone covers are made from your memories. You can upload your own photos, names, dates, lyrics, or short lines, and we transform them into a meaningful, aesthetic design. Each piece is crafted to hold emotion — love, nostalgia, healing, celebration, or remembrance.</p><p>These covers are especially loved as gifts and keepsakes, turning personal moments into something you can carry with you every day.</p><p><strong>Add to Cart</strong>, share your preferences and we'll complete your customised phone case design together on WhatsApp.</p>",
     "buyInfoShow": true,
     "specialOffer": true,
     "price": {
-      "original": 605,
-      "discounted": 579
+      "discounted": 249
     },
     "images": [
       {
@@ -309,12 +330,11 @@
   "haven-eye": {
     "id": 10,
     "title": "Haven Eye (Wooden Evil Eye Wall Hang)",
-    "desc": "<p><strong>This intricately hand-painted wooden evil eye wall hang</strong> blends protective symbolism with timeless artistry. Its bold colors and delicate brushwork radiate charm and positivity. A striking décor accent that safeguards while beautifying your space.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "desc": "<p><strong>This intricately hand-painted wooden evil eye wall hang</strong> blends protective symbolism with timeless artistry. Its bold colors and delicate brushwork radiate charm and positivity. A striking décor accent that safeguards while beautifying your space.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
     "buyInfoShow": false,
     "specialOffer": true,
     "price": {
-      "original": 499,
-      "discounted": 579
+      "discounted": 499
     },
     "images": [
       {
@@ -344,8 +364,7 @@
     "buyInfoShow": false,
     "specialOffer": true,
     "price": {
-      "original": 499,
-      "discounted": ""
+      "discounted": 399
     },
     "images": [
       {
@@ -375,8 +394,7 @@
     "buyInfoShow": false,
     "specialOffer": true,
     "price": {
-      "original": 499,
-      "discounted": ""
+      "discounted": 499
     },
     "images": [
       {
@@ -402,12 +420,11 @@
   "home-harmony": {
     "id": 13,
     "title": "Home Harmony (Hand-Painted MDF Wall Decor)",
-    "desc": "<p><strong>Add personality to your walls</strong> with quirky, hand-painted posters and decor panels that reflect your vibe. From bold life quotes to vibrant artistic designs, each piece is a statement of creativity. Perfect for bedrooms, living rooms, studios, or workspaces, these trendy wall art pieces turn blank spaces into expressive reflections of your lifestyle.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
+    "desc": "<p><strong>Bring warmth and positivity into your space</strong> with hand-painted MDF wall hangings that celebrate the essence of home. Heartfelt quotes to uplifting messages of good vibes, these round decor panels add charm to living rooms, entryways, or cozy corners. A perfect blend of home aesthetics, positive energy, and artisanal artistry, they make your walls truly welcoming.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp to see more.</em></p>",
     "buyInfoShow": false,
     "specialOffer": true,
     "price": {
-      "original": 499,
-      "discounted": ""
+      "discounted": 599
     },
     "images": [
       {
@@ -437,8 +454,7 @@
     "buyInfoShow": false,
     "specialOffer": true,
     "price": {
-      "original": 999,
-      "discounted": ""
+      "discounted": 999
     },
     "images": [
       {
@@ -468,8 +484,7 @@
     "buyInfoShow": false,
     "specialOffer": true,
     "price": {
-      "original": 599,
-      "discounted": ""
+      "discounted": 599
     },
     "images": [
       {
@@ -499,8 +514,7 @@
     "buyInfoShow": false,
     "specialOffer": true,
     "price": {
-      "original": 1499,
-      "discounted": ""
+      "discounted": 1499
     },
     "images": [
       {
@@ -530,8 +544,7 @@
     "buyInfoShow": false,
     "specialOffer": true,
     "price": {
-      "original": 299,
-      "discounted": ""
+      "discounted": 299
     },
     "images": [
       {
@@ -561,8 +574,7 @@
     "buyInfoShow": false,
     "specialOffer": true,
     "price": {
-      "original": 1999,
-      "discounted": ""
+      "discounted": 1999
     },
     "images": [
       {
@@ -592,8 +604,7 @@
     "buyInfoShow": false,
     "specialOffer": true,
     "price": {
-      "original": 499,
-      "discounted": ""
+      "discounted": 449
     },
     "images": [
       {
@@ -609,6 +620,825 @@
         "alt": ""
       }
     ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "vintage-vibe": {
+    "id": 20,
+    "title": "Vintage Vibe",
+    "desc": "<p><strong>Vintage Vibe</strong> phone covers are inspired by old letters, antique books, pressed flowers, film photography, and romantic nostalgia. These designs feel like pages from a forgotten diary — layered with soft textures, faded paper tones, handwritten elements, and vintage imagery.</p><p>You can choose your preferred aesthetic such as cottagecore, dark academia, retro romance, or old-world charm, and even add a name, date, or short quote. The result is a timeless, sentimental phone cover that feels warm, personal, and beautifully aged.</p><p><strong>Add to Cart</strong>, share your preferences and we'll complete your customised phone case design together on WhatsApp.</p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "discounted": 249
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "brew-you": {
+    "id": 21,
+    "title": "Brew & You",
+    "desc": "<p><strong>Brew & You</strong> phone covers are inspired by café culture and coffee aesthetics. From warm mocha tones and creamy textures to minimal coffee icons and latte-art inspired layouts, this collection brings cosy café vibes to your phone. Each design feels comforting, stylish, and perfect for anyone who lives on caffeine and calm aesthetics.</p><p><strong>Add to Cart</strong>, share your preferences and we'll complete your customised phone case design together on WhatsApp.</p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "discounted": 249
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "painted-frame": {
+    "id": 19,
+    "title": "Painted Frame",
+    "desc": "<p><strong>Painted Frame phone covers</strong> are created like digital paintings made just for you. This style focuses on expressive brush-like artwork, soft or bold compositions, and artistic storytelling. You can choose the mood — dreamy, romantic, minimal, dramatic, or playful — and we design the artwork around your colours, subjects, and emotions.</p><p>Whether you want florals, skies, faces, pets, abstract moods, or poetic visuals, your phone becomes a tiny canvas that reflects your inner world. Each piece is individually illustrated and arranged so it feels like a handcrafted artwork rather than a printed template.</p><p><strong>Add to Cart</strong>, share your preferences and we'll complete your customised phone case design together on WhatsApp.</p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "discounted": 249
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "canvas-chronicles": {
+    "id": 23,
+    "title": "Canvas Chronicles (Hand-Painted Canvas Notebooks)",
+    "desc": "<p><strong>Where art meets paper.</strong> Each hand-painted canvas notebook transforms your journaling into a creative experience — textured, tactile, and timeless. Perfect for artists, writers, and dreamers who love a touch of paint with their pages.</p><p>Fully customisable — colours, themes, and designs tailored to you.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 299
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "bound-muse": {
+    "id": 24,
+    "title": "Bound Muse (Hardbound & Spiral Notebooks)",
+    "desc": "<p><strong>Ideas deserve a beautiful home.</strong> Our hardbound and spiral notebooks combine durability with design — from sleek black spirals to elegant textured covers. Ideal for note-taking, sketching, or gifting, these notebooks blend everyday function with elevated style.</p><p>Fully customisable — colours, themes, and designs tailored to you</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 349
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "wander-notes": {
+    "id": 25,
+    "title": "Wander Notes (Travel-Friendly Resin-Coated Notebooks)",
+    "desc": "<p><strong>For thoughts that travel with you.</strong> Compact resin-coated notebooks designed for your on-the-go ideas — durable, artful, and easy to carry wherever inspiration strikes.</p><p>Fully customisable — colours, themes, and designs tailored to you.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 449
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "my-muse-memo": {
+    "id": 26,
+    "title": "My Muse Memo (To-do canvas memo)",
+    "desc": "<p><strong>Turn your desk into a personal canvas.</strong></p><p>Our customisable desk canvas and memo set is hand-painted to match your aesthetic, favourite colours, themes, or inspirations. Designed to reflect your personality and priorities, it combines functionality with art, helping you stay organized in style. Perfect for gifting or elevating your workspace with a touch of personal creativity.</p><p>Fully customisable — colours, themes, and designs tailored to you</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 549
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "your-story-desk": {
+    "id": 27,
+    "title": "Your Story Desk (Custom To-do canvas memo)",
+    "desc": "<p><strong>Turn your desk into a truly personal masterpiece.</strong></p><p>Our hand-painted desk canvas and memo set is custom-designed using your photo, aesthetic preferences, favourite colours, and themes, creating your to-do productivity energy. Functional yet artistic, it helps you stay organized while keeping your personality at the center of every design.</p><p>Fully customisable — include your image, colours, theme, and personal details.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 499
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "painted-pause": {
+    "id": 28,
+    "title": "Painted Pause (Hand-Painted Bookmarks)",
+    "desc": "<p><strong>Where art meets your favorite chapter.</strong></p><p>Each hand-painted bookmark is a mini canvas of color and creativity. Individually crafted and one-of-a-kind, they make thoughtful keepsakes for readers and art lovers alike.</p><p>Fully customisable — colours, themes, and designs tailored to you</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 179
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "vintage-keeps": {
+    "id": 29,
+    "title": "Vintage Keeps (Vintage Bookmarks)",
+    "desc": "<p><strong>Timeless stories between the pages.</strong></p><p>Vintage-inspired bookmarks that add nostalgia to every read. Elegant designs, muted tones, and classic finishes make them perfect for collectors and old-soul readers.</p><p>Fully customisable — colours, themes, and designs tailored to you</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 129
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "scribble-tales": {
+    "id": 30,
+    "title": "Scribble Tales (Illustrated & Quote Bookmarks)",
+    "desc": "<p><strong>Little artworks that speak your story.</strong></p><p>A mix of illustrated, doodle, and quote bookmarks that add a touch of fun and personality to your reads. Playful, expressive, and easy to gift — perfect for everyday readers and journal lovers.</p><p>Fully customisable — colours, themes, and designs tailored to you</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 109
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "mini-muse": {
+    "id": 31,
+    "title": "Mini Muse (Hand-Painted Desk Canvases)",
+    "desc": "<p><strong>Tiny artworks that tell quiet stories.</strong></p><p>Hand-painted mini canvases crafted to style desks, shelves, or reading nooks. A charming touch of color and emotion — perfect for gifting or personal inspiration.</p><p>Fully customisable — colours, themes, and designs tailored to you</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 249
+    },
+    "images": [
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      },
+      {
+        "img": "1.png",
+        "alt": ""
+      }
+    ],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "carry-your-canvas": {
+    "id": 32,
+    "title": "Carry Your Canvas (Tote Bags)",
+    "desc": "<p><strong>Expressive and eco-friendly</strong>, our hand-painted tote bags carry art into your daily life. Sturdy, stylish, and versatile, they transform errands, outings, and coffee runs into creative moments.</p><p>Fully customisable — designs, sizes, and materials can be tailored to your taste. Prices may vary accordingly.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 349
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "glow-and-go": {
+    "id": 33,
+    "title": "Glow & Go (Painted Pouches)",
+    "desc": "<p><strong>Sophisticated hand-painted pouches</strong> for all your everyday essentials. Chic, vibrant, and travel-ready, they add an artistic spark to your routine—perfect for makeup, accessories, stationery, and more.</p><p>Fully customisable — designs, sizes, and materials can be tailored to your taste. Prices may vary accordingly.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 349
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "ink-and-ideas": {
+    "id": 34,
+    "title": "Ink & Ideas (Painted pencil Pouches)",
+    "desc": "<p><strong>Playful hand-painted pencil pouches</strong> to hold pens, stationery, and doodles. Compact, quirky, and inspiring, they're perfect for writers, artists, and dreamers alike.</p><p>Fully customisable — designs, sizes, and materials can be tailored to your taste. Prices may vary accordingly.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 229
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "wanderlight": {
+    "id": 35,
+    "title": "Wanderlight (Travel Pouches)",
+    "desc": "<p><strong>Carry it all in style!</strong> Our oversized Wanderlight pouch is designed to hold more—perfect for toiletries, makeup, skincare, gadgets, or travel essentials. Lightweight yet roomy, this hand-painted pouch keeps everything organised while adding a chic artistic touch to your journeys. Ideal as a travel toiletry bag, makeup organiser, or multipurpose storage pouch.</p><p>Fully customisable — designs, sizes, and materials can be tailored to your taste. Prices may vary accordingly.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 899
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "roadside-charms": {
+    "id": 36,
+    "title": "Roadside Charms (Car Charms)",
+    "desc": "<p><strong>Enchanting hand-painted car hangs</strong> that infuse colour, artistry, and positivity into your ride. Unique, decorative, and soulful, they bring charm and warmth to every journey.</p><p>Fully customisable — designs, sizes, and materials can be tailored to your taste. Prices may vary accordingly.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 299
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "tiny-treasure-towers": {
+    "id": 37,
+    "title": "Tiny Treasure Towers (Trinket Drawers)",
+    "desc": "<p><strong>Delightful hand-painted trinket drawers</strong> for keepsakes, accessories, and everyday charms. Whimsical yet practical, these vibrant organisers bring personality, order, and colour to your space.</p><p>Fully customisable — designs, sizes, and materials can be tailored to your taste. Prices may vary accordingly.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 1099
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "keepsake-keepers": {
+    "id": 38,
+    "title": "Keepsake Keepers (Jewellery Boxes)",
+    "desc": "<p><strong>Exquisite hand-painted jewellery boxes</strong> to protect your rings, earrings, and trinkets with grace. Elegant, artistic, and enduring, each box is a miniature sanctuary where your treasures rest beautifully.</p><p>Fully customisable — designs, sizes, and materials can be tailored to your taste. Prices may vary accordingly.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 499
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "trinket-tales": {
+    "id": 39,
+    "title": "Trinket Tales",
+    "desc": "<p><strong>Tiny yet captivating</strong>, these decorative side plates keep rings, keys, and keepsakes in style. Painted with vibrant accents and intricate artistry, they add personality to everyday routines. A charming little treasure for your bedside or drawers.</p><p>Fully customisable — designs, sizes, and materials can be tailored to your taste. Prices may vary accordingly.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 199
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "key-charms": {
+    "id": 40,
+    "title": "Key Charms (Hand-Painted Keychains)",
+    "desc": "<p><strong>Carry art wherever you go.</strong> Our hand-painted keychains turn everyday essentials into miniature works of art. Crafted on MDF, wood, or acrylic, and available in various textures, each charm can be customised with initials, quotes, colours, or designs to match your personality and style.</p><p>Fully customisable — designs, sizes, and materials can be tailored to your taste. Prices may vary accordingly.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 129
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "carry-your-life": {
+    "id": 41,
+    "title": "Carry Your Life (Hand-Painted Totes)",
+    "desc": "<p><strong>Fit it all and carry it in style.</strong> Our hand-painted canvas totes are designed to hold everything you need while adding a personal artistic touch to your everyday carry. Each tote is fully customisable — choose your colours, themes, and aesthetics to reflect your personality. Both sides are hand-painted, and every bag comes with a matching mini bag charm for extra charm and flair.</p><p>Fully customisable — designs, colours, and themes tailored to you. Prices may vary based on design, size, and detailing.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 549
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "vows-and-vibes": {
+    "id": 42,
+    "title": "Vows & Vibes (Wedding & Bridesmaid Hamper)",
+    "desc": "<p><strong>Because your bestie's 'I do' deserves a little extra sparkle.</strong></p><p>Celebrate weddings and bridal moments with a personalised bridesmaid or wedding gift hamper curated with handcrafted keepsakes, thoughtful details, and lasting memories. Ideal for bridesmaids, best friends, or wedding favours, each hamper is designed to feel meaningful long after the celebrations end.</p><p>Customisation available for names, themes, and wedding aesthetics. Prices vary by selection.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 799
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "tailor-your-treasure": {
+    "id": 43,
+    "title": "Tailor Your Treasure (Custom Gift Hamper)",
+    "desc": "<p><strong>Your vision, our artistry — curated just for you.</strong></p><p>Design your own customised gift hamper from scratch. Choose from handcrafted products, personalised elements, and aesthetic themes to create a bespoke hamper that perfectly matches your occasion, style, and sentiment.</p><p>Fully customisable. Prices vary based on chosen products, size, and detailing.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 1299
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "born-to-celebrate": {
+    "id": 44,
+    "title": "Born to Celebrate (Birthday Gift Hamper)",
+    "desc": "<p><strong>Because some birthdays deserve more than just cake.</strong></p><p>Make birthdays unforgettable with a personalised birthday gift hamper filled with handcrafted keepsakes, cheerful accents, and thoughtful surprises. Curated to reflect personality, colour preferences, and age milestones, these hampers bring joy beyond the celebration day.</p><p>Custom themes, names, and messages available. Prices vary by contents.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 1099
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "pocketful-of-joy": {
+    "id": 45,
+    "title": "Pocketful of Joy (Mini Gift Hamper)",
+    "desc": "<p><strong>Small in size, big on smiles.</strong></p><p>A charming mini gift hamper perfect for spontaneous gifting — whether it's gratitude, encouragement, love, or just-because moments. Compact yet meaningful, each hamper includes carefully selected handcrafted pieces that make everyday moments special.</p><p>Customisation available. Prices vary by items and design.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 349
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "for-the-muse-of-my-heart": {
+    "id": 46,
+    "title": "For the Muse of My Heart (Romantic Gift Hamper)",
+    "desc": "<p><strong>Love, wrapped with intention.</strong></p><p>Express affection with a romantic personalised gift hamper curated with keepsakes, love notes, and meaningful details. Ideal for anniversaries, proposals, Valentine's Day, or heartfelt surprises, each hamper is designed to reflect your love story.</p><p>Custom messages, themes, and keepsakes available. Prices vary by customisation.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 1799
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "roots-and-gratitude": {
+    "id": 47,
+    "title": "Roots & Gratitude (Parents' Gift Hamper)",
+    "desc": "<p><strong>For the ones who built your world, piece by piece.</strong></p><p>Honour your parents with a thoughtfully curated parents' gift hamper filled with sentimental keepsakes, warm details, and timeless touches. Perfect for anniversaries, milestones, or simple expressions of gratitude and love.</p><p>Personalised notes, themes, and memory-led details available. Prices vary by selection.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 999
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "keepsake-corners": {
+    "id": 48,
+    "title": "Keepsake Corners",
+    "desc": "<p><strong>Handcrafted vintage photo frames</strong> that bring warmth and nostalgia to your home décor. Designed to preserve memories with timeless charm, each frame is custom-painted and styled to match your theme or color palette.</p><p>Prices vary depending on size, finish, and personalization.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 449
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "vintage-frames-glass": {
+    "id": 49,
+    "title": "Vintage Frames (Glass Collection)",
+    "desc": "<p><strong>Classic handcrafted glass photo frames</strong> that blend elegance with modern artistry. Designed to highlight your memories with clarity and charm, each frame is custom-painted or detailed to match your preferred theme, palette, or mood. The glossy glass finish adds a refined touch to any décor.</p><p>Prices vary based on size, artwork, and customization.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 899
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "made-to-frame": {
+    "id": 50,
+    "title": "Made to Frame",
+    "desc": "<p><strong>Where every memory finds its perfect frame.</strong> These personalized photo frames are crafted by hand with your story in mind — from color themes to painted accents and design ideas. Each piece is unique, just like your moments.</p><p>Pricing changes based on frame size, artwork, and customization details.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 1499
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "clip-and-cherish": {
+    "id": 51,
+    "title": "Clip & Cherish",
+    "desc": "<p><strong>Creative clipboards and memory boards</strong> designed for displaying photos, notes, and keepsakes with style. Perfect for both desk and wall décor, each piece can be customized with your preferred colors, designs, or quotes.</p><p>Prices vary with size and custom elements.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 349
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "memorease-diy-canvas": {
+    "id": 52,
+    "title": "MemorEase (DIY Canvas)",
+    "desc": "<p><strong>Unleash your creativity</strong> with DIY canvas frames for painting, doodling, or personal art projects. Made from high-quality materials, they're ideal for custom creations or gifting personalized art.</p><p>Prices depend on canvas size and framing style.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 549
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "farewell-frames": {
+    "id": 53,
+    "title": "Farewell Frames",
+    "desc": "<p><strong>Thoughtfully designed farewell cards</strong> that capture gratitude, emotions, and lasting memories. Perfect for colleagues, mentors, or friends who deserve a graceful goodbye. Each farewell card is crafted to reflect your message and memory, personalized with names, notes, or photos. Prices vary by design and finish.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 1499
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "birthday-bloom": {
+    "id": 54,
+    "title": "Birthday Bloom",
+    "desc": "<p><strong>Cheerful hand-painted birthday cards and creative cake toppers</strong> that bring color and joy to every celebration. Vibrant, playful, and full of heart. Every card is customized for your occasion — from names and messages to photo touches and color themes. Prices vary by artwork and detailing.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 249
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "lovers-lane": {
+    "id": 55,
+    "title": "Lover's Lane",
+    "desc": "<p><strong>Elegant love and anniversary cards</strong> crafted with imagination and warmth. Each piece tells a story of affection and artistry, made to last beyond the moment. Every design is personalized to your love story, from names and dates to custom art or photographs. Prices vary based on customization.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 799
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "make-it-yours": {
+    "id": 56,
+    "title": "Make It Yours",
+    "desc": "<p><strong>Design your own story with custom handmade cards</strong> — tailored to your style, color palette, and sentiment. Whether minimal, playful, or photo-based, each one is a keepsake in itself. Every card is created from scratch to suit your idea, with full personalization in design, color, and content. Prices vary by design and creative input.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 749
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "cake-story-toppers": {
+    "id": 57,
+    "title": "Cake Story Toppers (Handcrafted Cake Toppers)",
+    "desc": "<p><strong>Turn cakes into conversations.</strong> Our handcrafted cake toppers are thoughtfully designed using layered paper art, hand-drawn details, and meaningful messages—perfect for birthdays, farewells, milestones, and intimate celebrations. Each topper tells a mini story, featuring personalised notes, names, age markers, or themed illustrations that make your cake truly unforgettable.</p><p>Designed to sit beautifully on cakes or dessert tables, these custom cake toppers double as keepsakes long after the celebration ends. Fully customisable in theme, colours, messages, and occasion. Prices vary based on size, detailing, and level of personalisation.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 349
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "occasion-notes": {
+    "id": 58,
+    "title": "Occasion Notes (Special Day Cards)",
+    "desc": "<p><strong>Celebrate moments that deserve recognition.</strong> Handcrafted and hand-painted cards designed for special occasions like Women's Day, Men's Day, appreciation days, and milestone moments. Each card is personalised with your message, colour palette, and theme—perfect for gifting, workplace appreciation, or heartfelt gestures.</p><p>Customisation available for text, colours, themes, and photographs. Prices vary by design and detailing.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 129
+    },
+    "images": [],
     "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
     "tentativeShippingDate": {
       "min": 10,

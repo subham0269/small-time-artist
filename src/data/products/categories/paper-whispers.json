@@ -1,0 +1,91 @@
+{
+  "label": "Paper Whispers",
+  "heading": "Paper Whisper",
+  "sub-heading": "Because paper speaks louder than words. Discover handcrafted and hand-painted greeting cards for every emotion — from heartfelt celebrations to simple hellos. Each card is custom-made to your story, designed with your preferred palette, message, or even photographs. Prices vary by design, size, and personalization.",
+  "products": [
+    {
+      "id": 1,
+      "name": "Farewell Frames",
+      "url": "farewell-frames",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "1499",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Birthday Bloom",
+      "url": "birthday-bloom",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "249",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lover's Lane",
+      "url": "lovers-lane",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "799",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Make It Yours",
+      "url": "make-it-yours",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "749",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Cake Story Toppers (Handcrafted Cake Toppers)",
+      "url": "cake-story-toppers",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "349",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Occasion Notes (Special Day Cards)",
+      "url": "occasion-notes",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "129",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    }
+  ]
+}

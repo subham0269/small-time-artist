@@ -131,6 +131,16 @@ function ProductSubCategories() {
                       <Heading level="3">{e?.name}</Heading>
                       {e?.price?.map((_) => (
                         <p>
+                          <span>{`Rs. ${_?.original}${_?.showAbove ? " & above" : ""}`}</span>
+                          {_?.excl && (
+                            <span className={css.excl}>{` + ${_?.excl}`}</span>
+                          )}
+                          {_?.incl && (
+                            <span className={css.incl}>{`- ${_?.incl}`}</span>
+                          )}
+                        </p>
+                      ))}
+                      {/* <p>
                           <span>{`\u20B9${_?.original}`}</span>
                           {_?.compared && (
                             <span
@@ -143,8 +153,7 @@ function ProductSubCategories() {
                           {_?.incl && (
                             <span className={css.incl}>{`- ${_?.incl}`}</span>
                           )}
-                        </p>
-                      ))}
+                        </p> */}
                       {/* <span>{`\u20B9${e?.price?.original}`}</span>
                       {e?.price?.compared && (
                         <span

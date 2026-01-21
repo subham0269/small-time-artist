@@ -29,7 +29,7 @@ function BuyModal(props) {
       <div
         className={classNames(
           css.modalContainer,
-          isOpen ? css.animateSlideIn : css.animateSlideOut
+          isOpen ? css.animateSlideIn : css.animateSlideOut,
         )}
       >
         <CgClose onClick={onClose} className={css.closeBtn} />
@@ -102,7 +102,7 @@ function IndividualProduct() {
   if (!currListing) return <Loading />;
 
   const { original, discounted } = currListing?.price || {};
-  if (discounted) {
+  if (original && discounted) {
     average = parseFloat(100 - (discounted / original) * 100).toFixed(1);
   }
 
@@ -123,11 +123,14 @@ function IndividualProduct() {
 
   // Format price for meta description
   const formatPrice = () => {
-    let priceText = `₹${original}`;
-    if (discounted) {
-      priceText = `₹${discounted} (Regular Price: ₹${original}, Save ${average}%)`;
+    if (original && discounted) {
+      return `₹${discounted} (Regular Price: ₹${original}, Save ${average}%)`;
+    } else if (discounted) {
+      return `₹${discounted} & above`;
+    } else if (original) {
+      return `₹${original}`;
     }
-    return priceText;
+    return "";
   };
 
   return (
@@ -209,14 +212,24 @@ function IndividualProduct() {
                       </Heading>
                     )}
                     <div className={css.pricingCont}>
-                      {discounted && <span>{`\u20B9 ${discounted}`}</span>}
-                      <span
-                        className={classNames(css.strike, {
-                          [css.main]: !discounted,
-                        })}
-                      >{`\u20B9 ${original}`}</span>
-                      {average && (
-                        <span className={css.percentage}>{`${average}%`}</span>
+                      {original ? (
+                        <>
+                          {discounted && <span>{`\u20B9 ${discounted}`}</span>}
+                          <span
+                            className={classNames(css.strike, {
+                              [css.main]: !discounted,
+                            })}
+                          >{`\u20B9 ${original}`}</span>
+                          {average && (
+                            <span
+                              className={css.percentage}
+                            >{`${average}%`}</span>
+                          )}
+                        </>
+                      ) : (
+                        <span
+                          className={css.main}
+                        >{`Rs. ${discounted} & above`}</span>
                       )}
                     </div>
                   </div>

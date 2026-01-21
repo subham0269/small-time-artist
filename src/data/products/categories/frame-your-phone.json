@@ -10,9 +10,10 @@
       "cover_img": "1.png",
       "price": [
         {
-          "original": "579",
-          "compared": "605",
-          "excl": "shipping"
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "showAbove": true
         }
       ]
     },
@@ -23,16 +24,10 @@
       "cover_img": "1.png",
       "price": [
         {
-          "original": "579",
-          "compared": "605",
-          "excl": "shipping",
-          "incl": "Complete Case"
-        },
-        {
           "original": "249",
           "compared": "279",
           "excl": "shipping",
-          "incl": "Insert Only"
+          "showAbove": true
         }
       ]
     },
@@ -43,16 +38,10 @@
       "cover_img": "1.png",
       "price": [
         {
-          "original": "579",
-          "compared": "605",
-          "excl": "shipping",
-          "incl": "Complete Case"
-        },
-        {
           "original": "249",
           "compared": "279",
           "excl": "shipping",
-          "incl": "Insert Only"
+          "showAbove": true
         }
       ]
     },
@@ -63,16 +52,10 @@
       "cover_img": "1.png",
       "price": [
         {
-          "original": "579",
-          "compared": "605",
-          "excl": "shipping",
-          "incl": "Complete Case"
-        },
-        {
           "original": "249",
           "compared": "279",
           "excl": "shipping",
-          "incl": "Insert Only"
+          "showAbove": true
         }
       ]
     },
@@ -83,16 +66,10 @@
       "cover_img": "1.png",
       "price": [
         {
-          "original": "579",
-          "compared": "605",
-          "excl": "shipping",
-          "incl": "Complete Case"
-        },
-        {
           "original": "249",
           "compared": "279",
           "excl": "shipping",
-          "incl": "Insert Only"
+          "showAbove": true
         }
       ]
     },
@@ -103,16 +80,10 @@
       "cover_img": "1.png",
       "price": [
         {
-          "original": "579",
-          "compared": "605",
-          "excl": "shipping",
-          "incl": "Complete Case"
-        },
-        {
           "original": "249",
           "compared": "279",
           "excl": "shipping",
-          "incl": "Insert Only"
+          "showAbove": true
         }
       ]
     },
@@ -123,16 +94,10 @@
       "cover_img": "1.png",
       "price": [
         {
-          "original": "579",
-          "compared": "605",
-          "excl": "shipping",
-          "incl": "Complete Case"
-        },
-        {
           "original": "249",
           "compared": "279",
           "excl": "shipping",
-          "incl": "Insert Only"
+          "showAbove": true
         }
       ]
     },
@@ -143,16 +108,10 @@
       "cover_img": "1.png",
       "price": [
         {
-          "original": "579",
-          "compared": "605",
-          "excl": "shipping",
-          "incl": "Complete Case"
-        },
-        {
           "original": "249",
           "compared": "279",
           "excl": "shipping",
-          "incl": "Insert Only"
+          "showAbove": true
         }
       ]
     },
@@ -163,16 +122,66 @@
       "cover_img": "1.png",
       "price": [
         {
-          "original": "579",
-          "compared": "605",
+          "original": "249",
+          "compared": "279",
           "excl": "shipping",
-          "incl": "Complete Case"
-        },
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Painted Frame",
+      "url": "painted-frame",
+      "cover_img": "1.png",
+      "price": [
         {
           "original": "249",
           "compared": "279",
           "excl": "shipping",
-          "incl": "Insert Only"
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Vintage Vibe",
+      "url": "vintage-vibe",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Mood & Muse (Aesthetic)",
+      "url": "mood-muse-aesthetic",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Brew & You",
+      "url": "brew-you",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "249",
+          "compared": "279",
+          "excl": "shipping",
+          "showAbove": true
         }
       ]
     }

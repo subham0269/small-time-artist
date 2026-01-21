@@ -1,0 +1,133 @@
+{
+  "label": "Muse & Memo",
+  "heading": "Muse & Memo",
+  "sub-heading": "<p><strong>Where art meets paper.</strong></p><p>Discover hand-painted notebooks, custom memo sets, and artful bookmarks that turn everyday stationery into personal masterpieces. From journaling essentials to desk décor, each piece is crafted to inspire creativity and keep your thoughts beautifully organized.</p>",
+  "products": [
+    {
+      "id": 1,
+      "name": "Canvas Chronicles (Hand-Painted Canvas Notebooks)",
+      "url": "canvas-chronicles",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "299",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bound Muse (Hardbound & Spiral Notebooks)",
+      "url": "bound-muse",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "349",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Wander Notes (Travel-Friendly Resin-Coated Notebooks)",
+      "url": "wander-notes",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "449",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "My Muse Memo (To-do canvas memo)",
+      "url": "my-muse-memo",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "549",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Your Story Desk (Custom To-do canvas memo)",
+      "url": "your-story-desk",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "499",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Painted Pause (Hand-Painted Bookmarks)",
+      "url": "painted-pause",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "179",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Vintage Keeps (Vintage Bookmarks)",
+      "url": "vintage-keeps",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "129",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Scribble Tales (Illustrated & Quote Bookmarks)",
+      "url": "scribble-tales",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "109",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mini Muse (Hand-Painted Desk Canvases)",
+      "url": "mini-muse",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "249",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    }
+  ]
+}

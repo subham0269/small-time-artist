@@ -1,30 +1,30 @@
 {
-  "label": "Nestled Nooks",
-  "heading": "Nestled Nooks",
-  "sub-heading": "<p><strong>Tiny corners, big personality.</strong></p><p>Discover thoughtful home décor accents that transform every nook into a reflection of you. From shelf styling essentials to custom Story Walls, bring warmth, creativity, and character to your space — one corner at a time.</p>",
+  "label": "Hold it Pretty",
+  "heading": "Hold it Pretty!",
+  "sub-heading": "Keep, carry, and organise in style with our hand-painted lifestyle essentials. From jewellery boxes and trinket drawers to tote bags, pouches, and car charms, every piece is crafted to be both functional and artistic. Perfect for gifting or everyday use, these unique hand-painted accessories add colour, charm, and personality to the little things you hold close.",
   "products": [
     {
       "id": 1,
-      "name": "Haven Eye (Wooden Evil Eye Wall Hang)",
-      "url": "haven-eye",
+      "name": "Carry Your Canvas (Tote Bags)",
+      "url": "carry-your-canvas",
       "cover_img": "1.png",
       "price": [
         {
-          "original": "499",
+          "original": "349",
           "compared": "",
           "excl": "shipping",
-          "showAbove": true
+          "showAbove": false
         }
       ]
     },
     {
       "id": 2,
-      "name": "Breeze Bloomers (Balcony Hangs)",
-      "url": "breeze-bloomers",
+      "name": "Glow & Go (Painted Pouches)",
+      "url": "glow-and-go",
       "cover_img": "1.png",
       "price": [
         {
-          "original": "399",
+          "original": "349",
           "compared": "",
           "excl": "shipping",
           "showAbove": false
@@ -33,8 +33,64 @@
     },
     {
       "id": 3,
-      "name": "Everyday Wall Stories (Handpainted Posters)",
-      "url": "everyday-wall-stories",
+      "name": "Ink & Ideas (Painted pencil Pouches)",
+      "url": "ink-and-ideas",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "229",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Wanderlight (Travel Pouches)",
+      "url": "wanderlight",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "899",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Roadside Charms (Car Charms)",
+      "url": "roadside-charms",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "299",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tiny Treasure Towers (Trinket Drawers)",
+      "url": "tiny-treasure-towers",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "1099",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Keepsake Keepers (Jewellery Boxes)",
+      "url": "keepsake-keepers",
       "cover_img": "1.png",
       "price": [
         {
@@ -46,83 +102,27 @@
       ]
     },
     {
-      "id": 4,
-      "name": "Home Harmony (Hand-Painted MDF Wall Decor)",
-      "url": "home-harmony",
-      "cover_img": "1.png",
-      "price": [
-        {
-          "original": "599",
-          "compared": "",
-          "excl": "shipping",
-          "showAbove": true
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Grain & Grace (Wooden Wall Hangs)",
-      "url": "grain-and-grace",
-      "cover_img": "1.png",
-      "price": [
-        {
-          "original": "999",
-          "compared": "",
-          "excl": "shipping",
-          "showAbove": false
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Name It Pretty (Nameplates)",
-      "url": "name-it-pretty",
-      "cover_img": "1.png",
-      "price": [
-        {
-          "original": "599",
-          "compared": "",
-          "excl": "shipping",
-          "showAbove": true
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Keys & Keeps (Painted Wooden Key Holders)",
-      "url": "keys-and-keeps",
-      "cover_img": "1.png",
-      "price": [
-        {
-          "original": "1499",
-          "compared": "",
-          "excl": "shipping",
-          "showAbove": false
-        }
-      ]
-    },
-    {
       "id": 8,
-      "name": "Table Tales (Tabletop Art & Posters)",
-      "url": "table-tales",
+      "name": "Trinket Tales",
+      "url": "trinket-tales",
       "cover_img": "1.png",
       "price": [
         {
-          "original": "299",
+          "original": "199",
           "compared": "",
           "excl": "shipping",
-          "showAbove": true
+          "showAbove": false
         }
       ]
     },
     {
       "id": 9,
-      "name": "Story Walls (Custom Wall Art)",
-      "url": "story-walls",
+      "name": "Key Charms (Hand-Painted Keychains)",
+      "url": "key-charms",
       "cover_img": "1.png",
       "price": [
         {
-          "original": "1999",
+          "original": "129",
           "compared": "",
           "excl": "shipping",
           "showAbove": true
@@ -131,12 +131,12 @@
     },
     {
       "id": 10,
-      "name": "Painted Keepsakes (Acrylic Frames)",
-      "url": "painted-keepsakes",
+      "name": "Carry Your Life (Hand-Painted Totes)",
+      "url": "carry-your-life",
       "cover_img": "1.png",
       "price": [
         {
-          "original": "449",
+          "original": "549",
           "compared": "",
           "excl": "shipping",
           "showAbove": true
