@@ -1,0 +1,161 @@
+{
+  "label": "The Gogh Edit",
+  "heading": "The Gogh Edit",
+  "sub-heading": "Where Art Meets Emotion. Brushes meet brilliance in this Van Gogh–inspired curation. Celebrate art that speaks to the soul with handcrafted pieces echoing Van Gogh's timeless style — from swirling skies to golden hues. Each creation blends artistry, personalization, and craftsmanship, making it perfect for collectors, dreamers, and those who see beauty in every detail.",
+  "products": [
+    {
+      "id": 1,
+      "name": "Keepsake Boxes (Hand-Painted Jewellery Boxes)",
+      "url": "keepsake-boxes-gogh",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "599",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Story Walls (Custom Wall Art Installations)",
+      "url": "story-walls-gogh",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "1999",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Painted Keepsakes (Acrylic Frames)",
+      "url": "painted-keepsakes-gogh",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "449",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "The Gogh Journals (Handcrafted Notebooks)",
+      "url": "the-gogh-journals",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "349",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Frame Your Phone (Phone cover/inserts)",
+      "url": "frame-your-phone-gogh",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "279",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Starry sips (The Signature Van Gogh Collection)",
+      "url": "starry-sips",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "1399",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Van Gogh Nights (Coaster Set – 4 pcs + Holder)",
+      "url": "van-gogh-nights",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "899",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "The Gogh Magnetic Charms | Fridge Magnets",
+      "url": "the-gogh-magnetic-charms",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "129",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Glow & Go (Starry Night Painted Pouches)",
+      "url": "glow-and-go-gogh",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "349",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Starry Brews (The Gogh Edit | Hand-Painted Bamboo Sippers)",
+      "url": "starry-brews",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "649",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Starry Tables (The Gogh Edit | Table Tales – Tabletop Art & Posters)",
+      "url": "starry-tables",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "399",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    }
+  ]
+}

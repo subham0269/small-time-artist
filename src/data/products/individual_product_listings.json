@@ -1445,5 +1445,617 @@
       "max": 14,
       "unit": "days"
     }
+  },
+  "keepsake-boxes-gogh": {
+    "id": 59,
+    "title": "Keepsake Boxes (Hand-Painted Jewellery Boxes)",
+    "desc": "<p><strong>Where treasures rest beneath painted skies.</strong> These handcrafted jewellery and keepsake boxes feature Van Gogh–inspired artistry, turning everyday storage into a work of art. Each box is custom-painted to match your chosen palette, mood, or theme, with detailed finishes that make it both decorative and functional.</p><p>Prices vary based on box size, design intricacy, and customization.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 599
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "story-walls-gogh": {
+    "id": 60,
+    "title": "Story Walls (Custom Wall Art Installations)",
+    "desc": "<p><strong>Turn your walls into personal galleries that tell your story.</strong> Our Story Walls bring Van Gogh's expressive brushwork into your space through custom art on MDF, plywood, or your preferred base. Every design is co-created with you, tailored to your colors, themes, and home aesthetic — transforming plain walls into soulful storytelling pieces.</p><p>Prices vary based on concept, material, and wall size.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 1999
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "painted-keepsakes-gogh": {
+    "id": 61,
+    "title": "Painted Keepsakes (Acrylic Frames)",
+    "desc": "<p><strong>Preserve your memories with painterly elegance.</strong> Our hand-painted acrylic frames combine Van Gogh–inspired color palettes with modern clarity. Each piece is crafted to your personal style, blending vibrant strokes, durability, and a high-gloss finish — making every memory a masterpiece.</p><p>Prices vary with frame size, art detail, and customization.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 449
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "the-gogh-journals": {
+    "id": 62,
+    "title": "The Gogh Journals (Handcrafted Notebooks)",
+    "desc": "<p><strong>Write beneath swirling skies.</strong> These hand-painted notebooks draw inspiration from Van Gogh's artistry — blending texture, color, and creativity. Each journal is customized to your preferences, from cover shades to inscriptions, making it perfect for writing, sketching, or gifting.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 349
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "frame-your-phone-gogh": {
+    "id": 63,
+    "title": "Frame Your Phone (Phone cover/inserts)",
+    "desc": "<p><strong>Style your everyday with strokes of genius.</strong> Inspired by Van Gogh's color stories and iconic patterns, these artistic phone inserts turn your device into a canvas of creativity. Choose from classic Starry Night motifs or personalized art prints tailored to your taste.</p><p>Prices may vary by size, finish, and customization.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 279
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "starry-sips": {
+    "id": 64,
+    "title": "Starry sips (The Signature Van Gogh Collection)",
+    "desc": "<p><strong>A little galaxy for your cup.</strong> Inspired by Van Gogh's iconic Starry Night, this set of 6 hand-painted MDF coasters features swirling skies and deep, dreamy hues, finished with a protective resin coating for durability and a refined sheen. Designed to elevate coffee and tea moments, these artistic coasters blend everyday functionality with timeless art—perfect for aesthetic kitchens and art-inspired homes.</p><p>Prices may vary by size, finish, and customization.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 1399
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "van-gogh-nights": {
+    "id": 65,
+    "title": "Van Gogh Nights (Coaster Set – 4 pcs + Holder)",
+    "desc": "<p><strong>Sip under painted skies.</strong> This 4-piece coaster set with holder is Van Gogh-inspired, capturing the swirling stars and deep blues of Starry Night. Crafted on MDF bases and resin-coated for a glossy, durable finish, these artistic coasters bring elegance, creativity, and lasting protection to your table.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 899
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "the-gogh-magnetic-charms": {
+    "id": 66,
+    "title": "The Gogh Magnetic Charms | Fridge Magnets",
+    "desc": "<p><strong>Turn everyday surfaces into miniature art galleries.</strong> Inspired by Van Gogh's expressive style and iconic colour palettes, these hand-painted magnets bring swirling skies, bold brushstrokes, and artistic charm to your fridge, workspace, or any magnetic surface. Crafted on premium bases and finished for durability, each piece blends functional use with collectible art appeal.</p><p>Customisation is available—from colours and themes to personalised details—making every magnet uniquely yours.</p><p>Prices may vary by size, finish, and level of customisation.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 129
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "glow-and-go-gogh": {
+    "id": 67,
+    "title": "Glow & Go (Starry Night Painted Pouches)",
+    "desc": "<p><strong>Carry the magic of painted skies wherever you go.</strong> Inspired by Van Gogh's iconic Starry Night, these hand-painted pouches feature swirling blues, golden accents, and dreamy night-sky details. Designed to be chic yet functional, they're perfect for makeup, travel essentials, stationery, or everyday keepsakes—adding an artistic glow to life on the go.</p><p>Customisation is available, allowing you to adapt colours, motifs, or detailing to suit your personal aesthetic.</p><p>Prices vary based on pouch shape, material, and design intricacy.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 349
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "starry-brews": {
+    "id": 68,
+    "title": "Starry Brews (The Gogh Edit | Hand-Painted Bamboo Sippers)",
+    "desc": "<p><strong>Sip beneath swirling skies.</strong> Inspired by Van Gogh's iconic Starry Night, these hand-painted bamboo coffee sippers feature deep blues, golden accents, and expressive brushstroke details that turn everyday coffee moments into artful rituals. Finished with a protective resin coating for durability and a soft glossy sheen, each sipper blends sustainability with timeless artistry.</p><p>Perfect for cozy mornings, creative workdays, or thoughtful gifting, every piece can be customised to reflect your preferred palette or Starry Night–inspired aesthetic.</p><p>Prices may vary based on design detailing and customisation.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 649
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "starry-tables": {
+    "id": 69,
+    "title": "Starry Tables (The Gogh Edit | Table Tales – Tabletop Art & Posters)",
+    "desc": "<p><strong>Bring painted skies to your tabletop.</strong> Inspired by Van Gogh's iconic Starry Night swirls and expressive brushwork, these tabletop art pieces and mini posters transform desks, shelves, and corners into intimate art displays. Featuring swirling blues, luminous strokes, and painterly textures, each piece captures the magic of a night sky in motion.</p><p>Perfect for styling workspaces, reading nooks, or gifting to art lovers, every design can be customised to suit your preferred palette, theme, or Starry Night–inspired mood.</p><p>Prices may vary by size, material, and level of customisation.</p><p><em>To explore personalised creations, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 399
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "hanging-recipes": {
+    "id": 70,
+    "title": "Hanging Recipes (Kitchen Hangs)",
+    "desc": "<p><strong>Where flavor meets art.</strong> Bring warmth and personality to your cooking space with hand-painted kitchen wall décor on durable MDF bases. Each piece adds rustic charm, artistic flair, and a hint of nostalgia — perfect for kitchens that tell your story.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 349
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "snapshot-magnets": {
+    "id": 71,
+    "title": "Snapshot Magnets (Photo Magnets)",
+    "desc": "<p><strong>Memories that stick — quite literally.</strong> Personalised photo insert magnets that turn your fridge into a memory wall. Perfect for gifting, these custom magnets capture your moments in charming, artistic frames.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 245
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "shaped-charms": {
+    "id": 72,
+    "title": "Shaped Charms (Handcrafted Shape Magnets)",
+    "desc": "<p><strong>Playful shapes, endless smiles.</strong> Handcrafted fridge magnets in fun shapes — from cups and teapots to hearts and more. Add a dash of whimsy and color to your kitchen with these delightful keepsakes.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 129
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "to-do-tales": {
+    "id": 73,
+    "title": "To-Do Tales (To-Do List Magnets)",
+    "desc": "<p><strong>Stay organized, stay inspired.</strong> Functional yet artistic to-do list magnets that make planning your day a joy. Write, wipe, and reuse — perfect for busy kitchens, creative desks, and everyday reminders.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 299
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "canvas-charms": {
+    "id": 74,
+    "title": "Canvas Charms (Painted Canvas Magnets)",
+    "desc": "<p><strong>Tiny canvases, big expression.</strong> Mini hand-painted canvas magnets that bring art to your refrigerator. Each piece is a small masterpiece — vibrant, textured, and made to add creative flair to everyday spaces.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 149
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "wooden-whispers": {
+    "id": 75,
+    "title": "Wooden Whispers (Painted Wooden Magnets)",
+    "desc": "<p><strong>Nature meets nostalgia.</strong> Artistic wooden fridge magnets painted on small log slices, celebrating the beauty of raw wood and hand-crafted detail. Perfect for rustic, earthy home aesthetics.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 149
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "everyday-charm": {
+    "id": 76,
+    "title": "Everyday Charm (Painted MDF Magnets)",
+    "desc": "<p><strong>Little reminders of everyday joy.</strong> Colorful hand-painted MDF magnets featuring everyday life scenes and simple pleasures. Lighthearted, vibrant, and perfect for adding warmth to your home.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 129
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "tea-time-tales": {
+    "id": 77,
+    "title": "Tea Time Tales (Tea-Inspired Coasters)",
+    "desc": "<p><strong>Brew stories, one sip at a time.</strong> Hand-painted tea-inspired coasters featuring calming tones, cups, and chai-time charm. Crafted on MDF bases with a smooth, durable varnish finish, perfect for cozy corners and teatime tables.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 175
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "self-love-sips": {
+    "id": 78,
+    "title": "Self-Love Sips (Affirmation Coasters)",
+    "desc": "<p><strong>Sip slow. Speak kind. Stay grounded.</strong> Motivational affirmation coasters with soothing colors and positive quotes. Made on MDF bases with a smooth, durable varnish finish, they inspire mindful moments with every drink.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 175
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "wizarding-brews": {
+    "id": 79,
+    "title": "Wizarding Brews (Harry Potter–Inspired Coasters)",
+    "desc": "<p><strong>Magic, mugs, and a touch of mischief.</strong> Harry Potter–themed coasters that bring Hogwarts to your table. Available in both MDF and resin-coated wooden finishes, they're perfect for Potterheads and collectors alike.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 549
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "starry-muse-coasters": {
+    "id": 80,
+    "title": "Starry Muse (Hand-Painted MDF Coasters)",
+    "desc": "<p><strong>A little galaxy for your cup.</strong> Inspired by Van Gogh's timeless \"Starry Night,\" these hand-painted MDF coasters bring dreamy skies and swirling hues to your table. Artistic, elegant, and made to add a touch of night-sky calm to every sip.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 899
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "mountain-muse": {
+    "id": 81,
+    "title": "Mountain Muse (Mountain-Inspired Coasters)",
+    "desc": "<p><strong>Sip with a view, wherever you are.</strong> Hand-painted mountain-inspired coasters that capture the calm of peaks, trails, and open skies. Crafted on resin-coated wooden bases, these artistic coasters bring wanderlust and serenity to your table — perfect for travel and nature lovers alike.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 549
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "everyday-mood": {
+    "id": 82,
+    "title": "Everyday Mood (Daily Vibe Coasters)",
+    "desc": "<p><strong>Art that matches your moment.</strong> Vibrant hand-painted resin-coated wooden coasters inspired by everyday moods — from calm mornings to cozy nights. A perfect mix of color, expression, and personality, designed to add joy to your daily rituals.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 499
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "love-and-latte-coasters": {
+    "id": 83,
+    "title": "Love & Latte Coasters (Custom Wooden Set)",
+    "desc": "<p><strong>Celebrate your story with handcrafted wooden couple coasters.</strong> Designed just for the two of you, each set features personalized portraits, names, dates, or themes—painted with care and sealed with a premium resin finish for lasting shine and durability. Perfect as anniversary gifts, wedding presents, or everyday keepsakes that turn your shared moments into art.</p><p><strong>Add to Cart</strong> and meet us on WhatsApp to customise your design.</p>",
+    "buyInfoShow": true,
+    "specialOffer": true,
+    "price": {
+      "discounted": 1099
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "tea-time-tokens": {
+    "id": 84,
+    "title": "Tea Time Tokens (Tea Lover Magnets)",
+    "desc": "<p><strong>Hand-painted tea-inspired fridge magnets.</strong> Bring cosy chai vibes to your space with magnets that can be customised to your favourite cups, quotes, or colours for a magnet that feels so you.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 109
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "city-sips": {
+    "id": 85,
+    "title": "City Sips (Kolkata Coaster Set – 6 pcs Painted)",
+    "desc": "<p><strong>Sip through the spirit of Kolkata.</strong> This 6-piece hand-painted coaster set celebrates the landmarks, colors, and vibrant energy of the City of Joy. Crafted on durable MDF with a smooth finish, each coaster adds a touch of artistic nostalgia and urban charm to your table or kitchen.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 899
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "brewed-charm": {
+    "id": 86,
+    "title": "Brewed Charm (Hand-Painted Bamboo Sippers)",
+    "desc": "<p><strong>Sip sustainably, sip in style.</strong> Each bamboo coffee sipper is hand-painted with acrylics and resin-coated for a glossy, long-lasting finish. Personal, playful, and eco-friendly — a charming companion for your daily brew, cozy mornings, or thoughtful gifting.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 649
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "wizarding-nights": {
+    "id": 87,
+    "title": "Wizarding Nights (Harry Potter Coaster Set – 5 pcs)",
+    "desc": "<p><strong>Step into the magic of Hogwarts.</strong> This handcrafted set of 5 Harry Potter–themed wooden coasters, finished with a glossy resin coat for an enchanting, durable shine. Featuring all four iconic Houses — Gryffindor, Slytherin, Ravenclaw, and Hufflepuff — along with a Hogwarts crest in Starry Night style, this set brings together wizarding charm and Van Gogh–inspired artistry. Perfect for Potterheads, collectors, and magical home décor lovers, each coaster is hand-painted on premium wooden bases, sealed for long life, and crafted to be both functional and display-worthy.</p><p><em>To explore personalised kitchen art, custom hand-painted designs, and exclusive collections, connect with us on WhatsApp for more designs.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 2299
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "ray-classics": {
+    "id": 88,
+    "title": "Ray Classics (Oversized T-Shirts)",
+    "desc": "<p><strong>Celebrate the timeless genius of Satyajit Ray</strong> with oversized artistic t-shirts inspired by his iconic cinema and vision. Designed for comfort and culture, these Ray-inspired t-shirts are perfect for film lovers and style enthusiasts alike.</p><p><em>To explore personalised designs, custom hand-painted artwork, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 899
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "kolkata-classics": {
+    "id": 89,
+    "title": "Kolkata Classics",
+    "desc": "<p><strong>Celebrate heritage with Kolkata t-shirts</strong> inspired by timeless icons, art, and culture. These artistic t-shirts capture nostalgia and city charm, making them stylish everyday wear for proud Kolkatans.</p><p><em>To explore personalised designs, custom hand-painted artwork, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 649
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "paw-and-proud": {
+    "id": 90,
+    "title": "Paw & Proud",
+    "desc": "<p><strong>Custom-made t-shirts and unique keepsakes for dog lovers</strong> who wear their love proudly. Playful, heartwarming creations that celebrate the unbreakable bond with your furry friend. Handcrafted designs and personalized touches make each piece special.</p><p><em>To explore personalised designs, custom hand-painted artwork, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 649
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "brew-and-bold": {
+    "id": 91,
+    "title": "Brew & Bold (Coffee)",
+    "desc": "<p><strong>Designed for caffeine enthusiasts,</strong> these coffee t-shirts blend comfort with creativity. Artistic printed t-shirts inspired by cozy café vibes bring warmth and style to your wardrobe. Perfect for coffee lovers who want to wear their passion.</p><p><em>To explore personalised designs, custom hand-painted artwork, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 649
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "celestial-strokes": {
+    "id": 92,
+    "title": "Celestial Strokes (Starry Night)",
+    "desc": "<p><strong>Step into a dreamy universe</strong> with Starry Night t-shirts inspired by Van Gogh. These celestial printed t-shirts are perfect for art lovers seeking enchanting, artistic fashion that captures the magic of swirling skies and luminous stars.</p><p><em>To explore personalised designs, custom hand-painted artwork, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 649
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "reel-threads": {
+    "id": 93,
+    "title": "Reel Threads (Movies & Series Inspired)",
+    "desc": "<p><strong>Celebrate your favorite screen moments</strong> with movie and series t-shirts. These pop culture printed t-shirts are bold, nostalgic, and designed for true film and binge-watch lovers. Wear your favorite stories and iconic moments close to your heart.</p><p><em>To explore personalised designs, custom hand-painted artwork, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 649
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
+  },
+  "divine-hues": {
+    "id": 94,
+    "title": "Divine Hues (Durga Pujo Classics)",
+    "desc": "<p><strong>Celebrate Durga Pujo in style</strong> with artistic printed t-shirts inspired by goddess motifs, festivity, and Kolkata culture. Perfect for pandal-hopping and festive outings, these Durga Puja special t-shirts blend tradition with trendy everyday wear, honoring the divine spirit of the festival.</p><p><em>To explore personalised designs, custom hand-painted artwork, and exclusive collections, connect with us on WhatsApp.</em></p>",
+    "buyInfoShow": false,
+    "specialOffer": true,
+    "price": {
+      "discounted": 649
+    },
+    "images": [],
+    "extraCharges": { "for": ["Gift packing", "note card"], "charge": "50.00" },
+    "tentativeShippingDate": {
+      "min": 10,
+      "max": 14,
+      "unit": "days"
+    }
   }
 }

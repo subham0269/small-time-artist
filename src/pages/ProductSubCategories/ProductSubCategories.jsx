@@ -39,6 +39,14 @@ function ProductSubCategories() {
     }
   };
 
+  // Products that should show custom pricing message instead of regular price
+  const productsWithCustomMessage = [
+    "story-walls-gogh",
+    "keepsake-boxes-gogh",
+    "painted-keepsakes-gogh",
+    "love-and-latte-coasters",
+  ];
+
   if (error) return <Error message={error} />;
   // if (!data) return <Loading />;
 
@@ -106,41 +114,67 @@ function ProductSubCategories() {
               dangerouslySetInnerHTML={{ __html: data?.["sub-heading"] }}
             />
           )}
-          <div className={css.gridWrapper}>
-            <div className={css.filters}>
-              <span>{`${data?.products?.length ?? 0} products`}</span>
+          {data?.comingSoon ? (
+            <div style={{ textAlign: "center", padding: "3rem 0" }}>
+              <Heading level="2" style={{ marginBottom: "1rem" }}>
+                Coming Soon
+              </Heading>
+              <p style={{ fontSize: "1rem", color: "#666" }}>
+                We're working on something special. Stay tuned!
+              </p>
             </div>
-            <div className={css.gridContainer}>
-              {!data?.products?.length ? (
-                <Heading level="2">No Products</Heading>
-              ) : (
-                data.products.map((e) => (
-                  <div
-                    onClick={() => handleRedirectToProduct(e?.url)}
-                    className={css.card}
-                    key={e.id}
-                  >
-                    <div className={css.imgCont}>
-                      <img
-                        src={`${baseUrl.supabase_url}/${e.cover_img}`}
-                        alt=""
-                        loading="lazy"
-                      />
-                    </div>
-                    <div className={css.details}>
-                      <Heading level="3">{e?.name}</Heading>
-                      {e?.price?.map((_) => (
-                        <p>
-                          <span>{`Rs. ${_?.original}${_?.showAbove ? " & above" : ""}`}</span>
-                          {_?.excl && (
-                            <span className={css.excl}>{` + ${_?.excl}`}</span>
-                          )}
-                          {_?.incl && (
-                            <span className={css.incl}>{`- ${_?.incl}`}</span>
-                          )}
-                        </p>
-                      ))}
-                      {/* <p>
+          ) : (
+            <div className={css.gridWrapper}>
+              <div className={css.filters}>
+                <span>{`${data?.products?.length ?? 0} products`}</span>
+              </div>
+              <div className={css.gridContainer}>
+                {!data?.products?.length ? (
+                  <Heading level="2">No Products</Heading>
+                ) : (
+                  data.products.map((e) => (
+                    <div
+                      onClick={() => handleRedirectToProduct(e?.url)}
+                      className={css.card}
+                      key={e.id}
+                    >
+                      <div className={css.imgCont}>
+                        <img
+                          src={`${baseUrl.supabase_url}/${e.cover_img}`}
+                          alt=""
+                          loading="lazy"
+                        />
+                      </div>
+                      <div className={css.details}>
+                        <Heading level="3">{e?.name}</Heading>
+                        {productsWithCustomMessage.includes(e?.url) ? (
+                          <p
+                            style={{
+                              fontSize: "0.9rem",
+                              fontStyle: "italic",
+                              color: "#666",
+                            }}
+                          >
+                            Prices vary based on customization
+                          </p>
+                        ) : (
+                          e?.price?.map((_) => (
+                            <p>
+                              <span>{`Rs. ${_?.original}${_?.showAbove ? " & above" : ""}`}</span>
+                              {_?.excl && (
+                                <span
+                                  className={css.excl}
+                                >{` + ${_?.excl}`}</span>
+                              )}
+                              {_?.incl && (
+                                <span
+                                  className={css.incl}
+                                >{`- ${_?.incl}`}</span>
+                              )}
+                            </p>
+                          ))
+                        )}
+                        {/* <p>
                           <span>{`\u20B9${_?.original}`}</span>
                           {_?.compared && (
                             <span
@@ -154,18 +188,19 @@ function ProductSubCategories() {
                             <span className={css.incl}>{`- ${_?.incl}`}</span>
                           )}
                         </p> */}
-                      {/* <span>{`\u20B9${e?.price?.original}`}</span>
+                        {/* <span>{`\u20B9${e?.price?.original}`}</span>
                       {e?.price?.compared && (
                         <span
                           className={css.comparedP}
                         >{`\u20B9${e?.price?.compared}`}</span>
                       )} */}
+                      </div>
                     </div>
-                  </div>
-                ))
-              )}
+                  ))
+                )}
+              </div>
             </div>
-          </div>
+          )}
         </WrapperContainer>
       </Section>
     </MainContainer>

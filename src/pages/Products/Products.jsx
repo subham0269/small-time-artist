@@ -108,8 +108,8 @@ function Products() {
       decor: card9,
     },
     {
-      title: "Strokes and Stories",
-      url: "strokes-and-stories",
+      title: "Wearable Whimpsy",
+      url: "wearable-whimpsy",
       img: card10_img,
       bgColor: "#f7f7f7",
       decor: card10,

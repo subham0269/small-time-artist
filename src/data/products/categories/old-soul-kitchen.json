@@ -1,0 +1,259 @@
+{
+  "label": "Old Soul Kitchen",
+  "heading": "Old Soul Kitchen",
+  "sub-heading": "Where memories simmer and stories stir. Inspired by kitchens filled with love — from your mum's spice-scented shelves to your first adulting kitchen. Explore coasters, fridge magnets, holders, and decor made for soulful cooking spaces.",
+  "products": [
+    {
+      "id": 1,
+      "name": "Hanging Recipes (Kitchen Hangs)",
+      "url": "hanging-recipes",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "349",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Snapshot Magnets (Photo Magnets)",
+      "url": "snapshot-magnets",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "245",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Shaped Charms (Handcrafted Shape Magnets)",
+      "url": "shaped-charms",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "129",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "To-Do Tales (To-Do List Magnets)",
+      "url": "to-do-tales",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "299",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Canvas Charms (Painted Canvas Magnets)",
+      "url": "canvas-charms",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "149",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Wooden Whispers (Painted Wooden Magnets)",
+      "url": "wooden-whispers",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "149",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Everyday Charm (Painted MDF Magnets)",
+      "url": "everyday-charm",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "129",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Tea Time Tales (Tea-Inspired Coasters)",
+      "url": "tea-time-tales",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "175",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Self-Love Sips (Affirmation Coasters)",
+      "url": "self-love-sips",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "175",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Wizarding Brews (Harry Potter–Inspired Coasters)",
+      "url": "wizarding-brews",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "549",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Starry Muse (Hand-Painted MDF Coasters)",
+      "url": "starry-muse-coasters",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "899",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Mountain Muse (Mountain-Inspired Coasters)",
+      "url": "mountain-muse",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "549",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Everyday Mood (Daily Vibe Coasters)",
+      "url": "everyday-mood",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "499",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Love & Latte Coasters (Custom Wooden Set)",
+      "url": "love-and-latte-coasters",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "1099",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Tea Time Tokens (Tea Lover Magnets)",
+      "url": "tea-time-tokens",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "109",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "City Sips (Kolkata Coaster Set – 6 pcs Painted)",
+      "url": "city-sips",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "899",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Brewed Charm (Hand-Painted Bamboo Sippers)",
+      "url": "brewed-charm",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "649",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Wizarding Nights (Harry Potter Coaster Set – 5 pcs)",
+      "url": "wizarding-nights",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "2299",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    }
+  ]
+}

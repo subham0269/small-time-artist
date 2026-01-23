@@ -1,0 +1,105 @@
+{
+  "label": "Wearable Whimsy",
+  "heading": "Wearable Whimsy",
+  "sub-heading": "Wear your story, celebrate your passion. From Satyajit Ray tributes to coffee-inspired designs, Kolkata heritage to celestial art — discover t-shirts that blend comfort with creativity. Artistic prints, custom-made designs, and handcrafted keepsakes for those who wear their art proudly.",
+  "products": [
+    {
+      "id": 1,
+      "name": "Ray Classics (Oversized T-Shirts)",
+      "url": "ray-classics",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "899",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kolkata Classics",
+      "url": "kolkata-classics",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "649",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paw & Proud",
+      "url": "paw-and-proud",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "649",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Brew & Bold (Coffee)",
+      "url": "brew-and-bold",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "649",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Celestial Strokes (Starry Night)",
+      "url": "celestial-strokes",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "649",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Reel Threads (Movies & Series Inspired)",
+      "url": "reel-threads",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "649",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Divine Hues (Durga Pujo Classics)",
+      "url": "divine-hues",
+      "cover_img": "1.png",
+      "price": [
+        {
+          "original": "649",
+          "compared": "",
+          "excl": "shipping",
+          "showAbove": false
+        }
+      ]
+    }
+  ]
+}

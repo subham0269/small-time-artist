@@ -108,6 +108,17 @@ function IndividualProduct() {
 
   const { min, max, unit } = currListing?.tentativeShippingDate || {};
 
+  // Products that should show custom pricing message
+  const productsWithCustomMessage = [
+    "story-walls-gogh",
+    "keepsake-boxes-gogh",
+    "painted-keepsakes-gogh",
+    "love-and-latte-coasters",
+  ];
+
+  const shouldShowCustomMessage =
+    productsWithCustomMessage.includes(productUrl);
+
   function ExtraChargesInfo({ extraCharges }) {
     const formatted = `${extraCharges.for.join(" + ")} - Rs. ${
       extraCharges.charge
@@ -212,7 +223,12 @@ function IndividualProduct() {
                       </Heading>
                     )}
                     <div className={css.pricingCont}>
-                      {original ? (
+                      {shouldShowCustomMessage ? (
+                        <span className={css.main}>
+                          Prices vary based on customization. Connect with us on
+                          WhatsApp for personalized quotes.
+                        </span>
+                      ) : original ? (
                         <>
                           {discounted && <span>{`\u20B9 ${discounted}`}</span>}
                           <span
