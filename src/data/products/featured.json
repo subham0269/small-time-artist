@@ -1,18 +1,42 @@
 {
   "folderPath": "featured/products",
   "list": [
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image1.webp" },
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image2.webp" },
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image3.webp" },
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image4.webp" },
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image5.webp" },
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image6.webp" },
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image7.webp" },
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image8.webp" },
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image9.webp" },
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image10.webp" },
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image11.webp" },
-    { "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image12.webp" }
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image1.webp"
+    },
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image2.webp"
+    },
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image3.webp"
+    },
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image4.webp"
+    },
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image5.webp"
+    },
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image6.webp"
+    },
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image7.webp"
+    },
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image8.webp"
+    },
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image9.webp"
+    },
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image10.webp"
+    },
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image11.webp"
+    },
+    {
+      "image": "https://owccabrtioklxfyhwwec.supabase.co/storage/v1/object/public/SmalltimeArtiste/Images/featured/image12.webp"
+    }
   ],
   "faq": [
     {
