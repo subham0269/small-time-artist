@@ -37,14 +37,14 @@ const LandingPage = () => {
   ];
 
   const imageGallery = [
-    "https://fastly.picsum.photos/id/304/500/800.jpg?hmac=lAS_njOAAgPkqizEQUyZ0Inxfqrvr3Qk6WiMV9yizcw",
-    "https://fastly.picsum.photos/id/841/500/800.jpg?hmac=SLf2lkMYbdoynDXYNKcPtWKaZIabgygOH__YzSVGqXs",
-    "https://fastly.picsum.photos/id/989/500/800.jpg?hmac=DitLLj6UM6UgK57QnxNVlw6DsZlOEHRQLifaT12IOPQ",
-    "https://fastly.picsum.photos/id/599/500/800.jpg?hmac=hGFHK-kHGG87Qv0eYazAIq4dOs5C0w-_77pKhMFdh2s",
-    "https://fastly.picsum.photos/id/17/500/800.jpg?hmac=KZB80c_pN6Ms4l6bH8NEGpAAAgENHuKOwlak6iMz1F4",
-    "https://fastly.picsum.photos/id/247/500/800.jpg?hmac=jKWHqOl9hnNYZzyWXsPG2OrmsVILjp8y_NeQlsCiaPw",
-    "https://fastly.picsum.photos/id/817/500/800.jpg?hmac=YC2Ml4s-y_p7zk7l8lozAKWb-8Ww5-qPZ3Qlo16J4YM",
-    "https://fastly.picsum.photos/id/861/500/800.jpg?hmac=eIw6j2n0nMexqr0pgVI9_XJQZlQVJECocVYOTH6d7hs",
+    "https://www.instagram.com/p/DVoBS9ZkocQ",
+    "https://www.instagram.com/p/DTxyCIMEo2F",
+    "https://www.instagram.com/p/DS6wImlkkvO",
+    "https://www.instagram.com/p/DUusbu9Evup",
+    "https://www.instagram.com/p/DUM2jw7kpN4",
+    "https://www.instagram.com/p/DTcukiJEuXp",
+    "https://www.instagram.com/p/DTISWIEkgBS",
+    "https://www.instagram.com/p/DOgL9vIEq3W",
   ];
 
   const handleRedirect = () => {
@@ -154,11 +154,12 @@ const LandingPage = () => {
           <div className={css.gridContainer}>
             {imageGallery.map((link, i) => (
               <div key={i} className={css.gridCard}>
-                <img
-                  className={css.gridImg}
-                  src={link}
-                  alt={`image-${i}`}
-                  loading="lazy"
+                <iframe
+                  src={`${link}/embed`}
+                  className={css.instaFrame}
+                  allowTransparency="true"
+                  frameBorder="0"
+                  scrolling="no"
                 />
               </div>
             ))}
