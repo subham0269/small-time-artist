@@ -43,6 +43,7 @@ import FAQ from "../../components/Faq/Faq";
 function Products() {
   const [hovered, setHovered] = useState(false);
   const navigate = useNavigate();
+  console.log("test 2");
   const gridItems = [
     {
       title: "Frame Your Phone",
