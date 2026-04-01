@@ -44,7 +44,7 @@ const LandingPage = () => {
     "https://www.instagram.com/p/DUM2jw7kpN4",
     "https://www.instagram.com/p/DTcukiJEuXp",
     "https://www.instagram.com/p/DTISWIEkgBS",
-    "https://www.instagram.com/p/DOgL9vIEq3W",
+    "https://www.instagram.com/p/DK15sdnyDGi",
   ];
 
   const handleRedirect = () => {
