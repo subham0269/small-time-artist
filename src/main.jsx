@@ -5,11 +5,14 @@ import "./styles/fonts.css";
 import App from "./App.jsx";
 import { BrowserRouter } from "react-router";
 import ScrollToTop from "./ScrollToTop.jsx";
+import { HelmetProvider } from "react-helmet-async";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter>
-      <App />
-    </BrowserRouter>
-  </StrictMode>
+    <HelmetProvider>
+      <BrowserRouter>
+        <App />
+      </BrowserRouter>
+    </HelmetProvider>
+  </StrictMode>,
 );

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 import { FiArrowUpRight } from "react-icons/fi";
 import css from "./Products.module.css";
 import classNames from "classnames";

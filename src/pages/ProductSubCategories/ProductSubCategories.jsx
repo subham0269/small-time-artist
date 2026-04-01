@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import css from "./ProductSubCategories.module.css";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 import MainContainer from "../../components/MainContainer/MainContainer";
 import Section from "../../components/Section/SectionContainer";
 import { Navigate, useLocation, useNavigate, useParams } from "react-router";

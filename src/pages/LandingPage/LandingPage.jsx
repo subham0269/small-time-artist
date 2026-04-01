@@ -14,7 +14,7 @@ import HeroImg from "../../assets/page/LandingPage/HeroImg1.png";
 
 import decorationLand from "../../assets/decorations/landing.png";
 import { useNavigate } from "react-router";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 
 const LandingPage = () => {
   const navigate = useNavigate();

@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router";
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 import LandingPage from "./pages/LandingPage/LandingPage";
 import AboutHer from "./pages/About/AboutHer";
 import Products from "./pages/Products/Products";
@@ -16,7 +16,7 @@ function App() {
     <>
       <Helmet>
         {/* Default meta tags */}
-        <meta charset="utf-8" />
+        <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/logo.svg" />
       </Helmet>
