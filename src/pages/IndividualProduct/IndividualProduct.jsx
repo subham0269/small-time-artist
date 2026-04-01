@@ -260,7 +260,7 @@ function IndividualProduct() {
                 <div className={css.prodCont}>
                   <div>
                     <Heading className={css.desHeading} level="2">
-                      Craft Story
+                      {/* Craft Story */}
                     </Heading>
                     <p
                       className={css.desc}

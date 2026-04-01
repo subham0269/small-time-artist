@@ -22,14 +22,14 @@
 
 .decorSec {
   width: 100%;
-  height: auto;
+  height: 100%;
   margin-top: -60px;
   padding-left: unset !important;
   padding-right: unset !important;
 }
 
 .herosec {
-  min-height: max(700px, calc(100vh - 90px));
+  /* min-height: max(700px, calc(100vh - 90px)); */
   padding: 80px 0;
 
   & .heroWrapper {
